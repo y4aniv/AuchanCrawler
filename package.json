@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/y4aniv/AuchanCrawler",
   "author": "Yaniv DOUIEB",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "edit-json-file": "^1.7.0"
+  }
 }
