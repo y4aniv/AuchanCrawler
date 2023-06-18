@@ -1,0 +1,9 @@
+{
+  "name": "AuchanCrawler",
+  "version": "1.0.0",
+  "description": "Automatic extraction of information on products sold by Auchan",
+  "main": "index.js",
+  "repository": "https://github.com/y4aniv/AuchanCrawler",
+  "author": "Yaniv DOUIEB",
+  "license": "GPL-3.0"
+}
