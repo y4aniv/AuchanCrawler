@@ -4,4 +4,5 @@ var colors = require('colors');
     await require('./lib/setup')()
     await require('./lib/setLogo')()
     await require('./lib/getCookies')()
+    await require('./lib/getCategories')()
 })();
