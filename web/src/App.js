@@ -4,26 +4,30 @@ import { Button, Input, FormControl } from "@ode-react-ui/components";
 import { useEffect } from 'react';
 
 function App() {
-  if (sessionStorage.getItem("NGROK") === null) {
+  if (sessionStorage.getItem("localtunnel") === null) {
     return (
       <div className="App">
-        <FormControl className="getNgrok">
+        <FormControl className="getLocaltunnel">
           <Input
             placeholder="Enter the address displayed in your terminal"
             size="md"
             type="text"
-            id="ngrokURL"
+            id="localtunnelURL"
           />
-          <Button id="setNgrok" onClick={() => {
-            let ngrok = document.getElementById("ngrokURL").value;
-            if (ngrok.indexOf("https://") === -1) {
-              ngrok = "https://" + ngrok;
+          <Button id="setLocaltunnel" onClick={() => {
+            let localtunnel = document.getElementById("localtunnelURL").value;
+            if (localtunnel.indexOf("https://") === -1) {
+              localtunnel = "https://" + localtunnel;
             }
-            if (ngrok.charAt(ngrok.length - 1) === "/") {
-              ngrok = ngrok.slice(0, -1);
+            if (localtunnel.charAt(localtunnel.length - 1) === "/") {
+              localtunnel = localtunnel.slice(0, -1);
             }
 
-            fetch(ngrok + "/auchancrawler").then((res) => {
+            fetch(localtunnel + "/auchancrawler", {
+              headers: {
+                "Bypass-Tunnel-Reminder": "true"
+              }
+            }).then((res) => {
               if (res.status === 200) {
                 return res.json();
               } else {
@@ -34,7 +38,7 @@ function App() {
                 if (data.message != "auchancrawler") {
                   alert("The address provided appears to be incorrect. Please check it and try again.")
                 } else {
-                  sessionStorage.setItem("NGROK", ngrok);
+                  sessionStorage.setItem("localtunnel", localtunnel);
                   window.location.reload();
                 }
               })
@@ -47,19 +51,28 @@ function App() {
     )
   } else {
     useEffect(() => {
-        setInterval(() => {
-          fetch(sessionStorage.getItem("NGROK") + "/auchancrawler").then((res) => {
+      setInterval(()=>{
+        fetch(sessionStorage.getItem("localtunnel") + "/auchancrawler", {
+          headers: {
+            "Bypass-Tunnel-Reminder": "true"
+          }
+        }).then((res) => {
+          if (res.status === 200) {
             return res.json();
-          }).then((data) => {
-            if (data.message != "auchancrawler") {
-              sessionStorage.clear();
-              window.location.reload();
-            }
-          }).catch((err) => {
-            sessionStorage.clear();
+          } else {
+            sessionStorage.removeItem("localtunnel");
             window.location.reload();
-          })
-        }, 1000)
+          }
+        }).then((data) => {
+          if (data.message != "auchancrawler") {
+            sessionStorage.removeItem("localtunnel");
+            window.location.reload();
+          }
+        }).catch((err) => {
+          sessionStorage.removeItem("localtunnel");
+          window.location.reload();
+        })
+      }, 1000)
     })
     return (
       <div className="App">

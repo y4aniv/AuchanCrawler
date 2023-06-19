@@ -6,6 +6,6 @@ var colors = require('colors');
     // await require('./lib/getCookies')()
     // await require('./lib/getCategories')()
     // await require('./lib/getProducts')()
-    await require('./lib/startServer')()
+    // await require('./lib/startServer')()
     await require('./lib/startServerExpress')()
 })();
