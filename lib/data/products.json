@@ -1,0 +1,5314 @@
+{
+  "products": [
+    [
+      {
+        "name": "Café bio en grain",
+        "brand": "MEO",
+        "price": "7.47",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Cappuccino café pur arabica bio prêt à boire",
+        "brand": "CARTE NOIRE",
+        "price": "3.17",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu pur arabica",
+        "brand": "CARTE NOIRE",
+        "price": "10.877,60€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu pur arabica bio",
+        "brand": "MEO",
+        "price": "5.85",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu notes de bahia Brésil",
+        "brand": "JACQUES VABRE",
+        "price": "4.05",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu bio pur arabica",
+        "brand": "CARTE NOIRE",
+        "price": "8.89",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grain bio sélection Honduras",
+        "brand": "CARTE NOIRE",
+        "price": "10.29",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café blonde espresso intensité 6 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "6.10",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Colombia intensité 7 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "6.54",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso intensité 5 compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "10.657,02€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso classique intensité 8 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "4.09",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo Intensité 4 compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "10.657,02€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café house blend intensité 8 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "6.77",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsule de café espresso intense intensité 10 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "4.09",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso compostables commerce équitable compatibles Nespresso",
+        "brand": "AUCHAN BIO",
+        "price": "2.571,69€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café à la noisette compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "3.572,35€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café saveur caramel compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "3.572,35€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso roast intensité 11 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "6.77",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café fortissimo compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "4.09",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café espresso classico 100% arabica capsules compatibles Nespresso",
+        "brand": "LAVAZZA",
+        "price": "3.612,38€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé intensité 7 compatibles Senseo",
+        "brand": "CARTE NOIRE",
+        "price": "6.96",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café bio classique intensité 5 compostables compatibles Senseo",
+        "brand": "CARTE NOIRE",
+        "price": "9.24",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café double espresso intensité 10 compatibles Dolce Gusto",
+        "brand": "NESCAFE",
+        "price": "5.343,52€",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "L'original café soluble spécial filtre",
+        "brand": "NESCAFE",
+        "price": "6.99",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Chicorée liquide nature",
+        "brand": "LEROUX",
+        "price": "3.51",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu",
+        "brand": "SEGAFREDO",
+        "price": "8.79",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers origins Capsules de café Colombia espresso intensité 6 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "3.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso 100% arabica compatibles Dolce Gusto",
+        "brand": "CARTE NOIRE",
+        "price": "4.38",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo 100% arabica intensité 5 compatibles Dolce Gusto",
+        "brand": "CARTE NOIRE",
+        "price": "4.38",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu pur arabica",
+        "brand": "CARTE NOIRE",
+        "price": "8.03",
+        "categorie": "Cafés"
+      }
+    ],
+    [
+      {
+        "name": "Café moulu tradition intensité 8",
+        "brand": "AUCHAN",
+        "price": "5.24",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu des petits producteurs l'original",
+        "brand": "MALONGO",
+        "price": "3.80",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu classico 100% arabica intensité 7",
+        "brand": "AUCHAN",
+        "price": "5.08",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu familial goût généreux",
+        "brand": "GRAND'MERE",
+        "price": "8.65",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu sensation Brésil intensité 6",
+        "brand": "AUCHAN GOURMET",
+        "price": "2.99",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu il mattino intensité 10",
+        "brand": "LAVAZZA",
+        "price": "7.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu intense 100% arabica intensité 7",
+        "brand": "L'OR",
+        "price": "7.46",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "CULTIVONS LE BON Café moulu Honduras boisé et fruité",
+        "brand": "AUCHAN BIO",
+        "price": "3.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu pur arabica premium",
+        "brand": "SAN MARCO",
+        "price": "8.76",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu bio pur arabica intensité 7",
+        "brand": "NATURELA",
+        "price": "14.92",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu familial goût généreux",
+        "brand": "GRAND'MERE",
+        "price": "2.29",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu absolu aromatique et raffiné intensité 7",
+        "brand": "L'OR",
+        "price": "8.04",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu l'espresso italiano classico intensité 5",
+        "brand": "LAVAZZA",
+        "price": "6.60",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu 100% arabica",
+        "brand": "AUCHAN BIO",
+        "price": "3.31",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu du Guatemala intensité 8",
+        "brand": "AUCHAN BIO",
+        "price": "3.89",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu dégustation pur Arabica",
+        "brand": "MEO",
+        "price": "6.72",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu bio et équitable d'Ethiopie pur arabica intensité 2",
+        "brand": "ALTER ECO",
+        "price": "4.33",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu sensation Ethiopie intensité 8",
+        "brand": "AUCHAN GOURMET",
+        "price": "3.39",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu riche et corsé",
+        "brand": "MEO",
+        "price": "5.96",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu tradition décaféiné intensité 6",
+        "brand": "AUCHAN",
+        "price": "4.19",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu la tierra pur arabica bio",
+        "brand": "MALONGO",
+        "price": "4.80",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café bio moulu bio équitable 100% Arabica du Pérou intensité 3",
+        "brand": "ALTER ECO",
+        "price": "4.33",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu gastonomique pur Arabica",
+        "brand": "MEO",
+        "price": "7.35",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Intenso Café moulu intensité 9",
+        "brand": "SAN MARCO",
+        "price": "9.85",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu dégustation pur Arabica",
+        "brand": "MEO",
+        "price": "5.99",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Moka d'Ethiopie café moulu pur arabica",
+        "brand": "MEO",
+        "price": "4.68",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu classique pur arabica",
+        "brand": "MEO",
+        "price": "3.49",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains bio pur arabica intensité 7",
+        "brand": "NATURELA",
+        "price": "14.46",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains arôme intense et goût unique pur arabica",
+        "brand": "CARTE NOIRE",
+        "price": "14.98",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Absolu Café en grains grand cru",
+        "brand": "L'OR",
+        "price": "18.47",
+        "categorie": "Cafés"
+      }
+    ],
+    [
+      {
+        "name": "Café en grains des petits producteurs",
+        "brand": "MALONGO",
+        "price": "7.95",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains bio 100% arabica intensité 8",
+        "brand": "AUCHAN BIO",
+        "price": "12.45",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains sélection équilibré et harmonieux",
+        "brand": "L'OR",
+        "price": "17.86",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "CULTIVONS LE BON Café en grains Honduras boisé et fruité",
+        "brand": "AUCHAN BIO",
+        "price": "7.62",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grain classico 100% arabica",
+        "brand": "AUCHAN",
+        "price": "12.88",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains dégustation pur arabica",
+        "brand": "MEO",
+        "price": "7.35",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grain pur arabica",
+        "brand": "SAN MARCO",
+        "price": "9.20",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains intermezzo",
+        "brand": "SEGAFREDO",
+        "price": "9.76",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains gastronomique pur arabica",
+        "brand": "MEO",
+        "price": "6.49",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains 100% Arabica",
+        "brand": "AUCHAN",
+        "price": "6.49",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains grand cru origine du Brésil",
+        "brand": "L'OR",
+        "price": "9.69",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café en grains bio intensité 7 pur Arabica",
+        "brand": "NATURELA",
+        "price": "4.05",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café moulu décaféiné pur arabica",
+        "brand": "MEO",
+        "price": "7.21",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Filtres à café bruns non blanchis n°4",
+        "brand": "AUCHAN",
+        "price": "1.52",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Filtres à café n°2 pour cafetière 2-4 tasses",
+        "brand": "AUCHAN",
+        "price": "0.84",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Filtres à thé",
+        "brand": "CILIA",
+        "price": "1.90",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café delizioso intensité 5 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "6.14",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café delizioso intensité 5 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "13.86",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café décaféiné intensité 6 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "5.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café ristretto intensité 11 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "14.53",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café splendente intensité 7 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "5.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café ristretto intensité 11 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "5.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café forza intensité 9 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "14.53",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café forza intensité 9 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "6.14",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café splendente intensité 7 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "13.86",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo profondo intensité 8 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "6.74",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café supremo intensité 10 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "5.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso classico intensité 8 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "2.41",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo profondo intensité 8 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "15.34",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo intensité 6 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "2.41",
+        "categorie": "Cafés"
+      }
+    ],
+    [
+      {
+        "name": "Caspules de café blonde espresso roast intensité 6 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Colombie intensité 7 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café noisette intensité 7 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "2.63",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers origins capsules de café Brazil lungo intensité 8 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "3.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso décaféiné intensité 6 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "2.43",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "5.37",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo compostables commerce équitable compatibles Nespresso",
+        "brand": "AUCHAN BIO",
+        "price": "2.57",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café expresso compatibles Nespresso",
+        "brand": "CAFE ROYAL",
+        "price": "5.37",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso roast intensité 11 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café house blend lungo intensité 8 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Verona intensité 10 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers origins Capsules de café Africas ristretto intensité 10 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "3.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso bio intensité 7 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "3.80",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers origins Capsules de café India intensité 9 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "3.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Italian Style roast intensité 11 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "3.94",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers origins Capsules de café 3 Americas Lungo intensité 8 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "3.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso roast décaféiné intensité 11 compatibles Nespresso",
+        "brand": "STARBUCKS",
+        "price": "4.02",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café espresso classique n°7 compatibles Nespresso",
+        "brand": "CARTE NOIRE",
+        "price": "3.33",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Guatemala intensité 7 compatibles Nespresso",
+        "brand": "LOBODIS",
+        "price": "4.38",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso intensité 10 compatibles Nespresso",
+        "brand": "AUCHAN",
+        "price": "2.41",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Farmers Origins Capsules de café Brasil lungo intensité 8 compatibles Nespresso",
+        "brand": "NESCAFE",
+        "price": "5.71",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café pure origine Ethiopie intensité 8 compatibles Nespresso",
+        "brand": "LOBODIS",
+        "price": "4.63",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Honduras bio intensité 9 compatibles Nespresso",
+        "brand": "LOBODIS",
+        "price": "4.38",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café forza intensité 9 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "11.09",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café lungo mattinata  intensité 5 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "6.74",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café or absolu intensité 9 compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "6.75",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de chocolat compatibles Nespresso",
+        "brand": "L'OR ESPRESSO",
+        "price": "3.63",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Sumatra bio intensité 12 compatibles Nespresso",
+        "brand": "LOBODIS",
+        "price": "4.92",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café ristretto intensité 11 compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "11.09",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café décaféiné compatibles Nespresso",
+        "brand": "L'OR",
+        "price": "3.20",
+        "categorie": "Cafés"
+      }
+    ],
+    [
+      {
+        "name": "Dosettes de café classique intensité 5 compatibles Senseo",
+        "brand": "AUCHAN",
+        "price": "4.72",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé compostables compatibles Senseo",
+        "brand": "SENSEO",
+        "price": "8.14",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé intensité 7 compatibles Senseo",
+        "brand": "AUCHAN",
+        "price": "4.74",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café classique intensité 5 compatibles Senseo",
+        "brand": "CARTE NOIRE",
+        "price": "6.64",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café classique",
+        "brand": "SENSEO",
+        "price": "7.43",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé format familial",
+        "brand": "SENSEO",
+        "price": "7.43",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café classique",
+        "brand": "SENSEO",
+        "price": "5.53",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café décaféiné",
+        "brand": "SENSEO",
+        "price": "5.50",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Café classique en dosette intensité 5 compatible Senseo",
+        "brand": "AUCHAN",
+        "price": "2.85",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café cappuccino",
+        "brand": "SENSEO",
+        "price": "2.89",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café doux recyclables",
+        "brand": "SENSEO",
+        "price": "5.50",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café classique compatibles Senseo",
+        "brand": "GRAND'MERE",
+        "price": "5.23",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café classico décaféiné intensité 5 compatibles Senseo",
+        "brand": "AUCHAN",
+        "price": "4.30",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café Brazil intensité 5",
+        "brand": "SENSEO",
+        "price": "6.14",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé compatibles Senseo",
+        "brand": "AUCHAN",
+        "price": "3.23",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café expresso classique intensité 7",
+        "brand": "SENSEO",
+        "price": "6.24",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café corsé",
+        "brand": "SENSEO",
+        "price": "5.53",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosette de café espresso intense n°9",
+        "brand": "SENSEO",
+        "price": "6.24",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café dégustation pur arabica compatible Senseo",
+        "brand": "MEO",
+        "price": "4.62",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café arôme exquis riche et corsé compatibles Senseo",
+        "brand": "MEO",
+        "price": "4.25",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café saveur caramel intensité 5 compatibles Senseo",
+        "brand": "AUCHAN",
+        "price": "1.68",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café au lait",
+        "brand": "SENSEO",
+        "price": "3.79",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Dosettes de café bistrot petit noir classique compatibles Senseo",
+        "brand": "LEGAL",
+        "price": "5.78",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Lungo Intensité 6 compatibles Dolce Gusto",
+        "brand": "DOLCE GUSTO",
+        "price": "8.68",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso intensité 5 compatibles Dolce Gusto",
+        "brand": "DOLCE GUSTO",
+        "price": "8.59",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café au lait intensité 7 compatibles Dolce Gusto",
+        "brand": "NESCAFE",
+        "price": "4.60",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Lungo intensité 6 compatibles Dolce Gusto",
+        "brand": "NESCAFE",
+        "price": "4.84",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café cappuccino",
+        "brand": "DOLCE GUSTO",
+        "price": "4.74",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café Espresso intensité 5 compatibles Dolce Gusto",
+        "brand": "NESCAFE",
+        "price": "4.57",
+        "categorie": "Cafés"
+      },
+      {
+        "name": "Capsules de café caramel macchiato compatibles Dolce Gusto",
+        "brand": "STARBUCKS",
+        "price": "4.83",
+        "categorie": "Cafés"
+      }
+    ],
+    [
+      {
+        "name": "Infusion brûle graisse maté citronnelle orange",
+        "brand": "AUCHAN BIO",
+        "price": "2.38",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches avec croûte",
+        "brand": "AUCHAN BIO",
+        "price": "2.08",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet bio sans huile de palme",
+        "brand": "AUCHAN BIO",
+        "price": "2.04",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie aux graines et céréales bio grandes tranches avec croûte",
+        "brand": "LA BOULANGERE",
+        "price": "2.79",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet bio grandes tranches avec croûte",
+        "brand": "LA BOULANGERE",
+        "price": "2.29",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cold In'fuse infusion froide pêche et fruits de la passion",
+        "brand": "TWININGS",
+        "price": "3.292,17€",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cold In'fuse infusion froide pastèque fraise menthe",
+        "brand": "TWININGS",
+        "price": "3.852,54€",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion réglisse menthe",
+        "brand": "AUCHAN BIO",
+        "price": "2.19",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion sommeil feuilles d'oranger mélisse marjolaine bio",
+        "brand": "AUCHAN BIO",
+        "price": "2.00",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion verveine",
+        "brand": "AUCHAN BIO",
+        "price": "1.84",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion camomille",
+        "brand": "AUCHAN BIO",
+        "price": "1.79",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion menthe et thym",
+        "brand": "AUCHAN BIO",
+        "price": "2.14",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion thym",
+        "brand": "AUCHAN BIO",
+        "price": "2.13",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion au thé vert verveine et menthe poivrée",
+        "brand": "AUCHAN BIO",
+        "price": "1.86",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion ventre plat menthe poivrée anis mauve et réglisse",
+        "brand": "AUCHAN BIO",
+        "price": "2.01",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion digestion mélisse romarin menthe douce",
+        "brand": "AUCHAN BIO",
+        "price": "2.00",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion détox frêne citronnelle cynorrhodon",
+        "brand": "AUCHAN BIO",
+        "price": "2.06",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion à froid brûle graisse bio",
+        "brand": "LA TISANIERE",
+        "price": "4.873,21€",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion à froid bio immunité thé vert citron vert passion",
+        "brand": "LA TISANIERE",
+        "price": "4.673,08€",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "La gourmande confiture à la fraise 65% de fruits",
+        "brand": "AUCHAN",
+        "price": "1.92",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "La gourmande confiture à l'abricot 65% de fruits",
+        "brand": "AUCHAN",
+        "price": "2.07",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Brioche tranchée recette classique sans additifs",
+        "brand": "HARRYS",
+        "price": "4.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Céréales extra chocolat noir noisettes grillées",
+        "brand": "KELLOGG'S",
+        "price": "2.71",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Trésor céréales fourrées chocolat au lait",
+        "brand": "KELLOGG'S",
+        "price": "3.53",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Céréales extra chocolat au lait",
+        "brand": "KELLOGG'S",
+        "price": "2.74",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Trésor céréales goût cookies et cream",
+        "brand": "KELLOGG'S",
+        "price": "3.77",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Trésor céréales fourrées chocolat noisettes",
+        "brand": "KELLOGG'S",
+        "price": "3.53",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Céréales extra barista goût café intense et chocolat",
+        "brand": "KELLOGG'S",
+        "price": "3.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Mini Céréales au caramel et chocolat",
+        "brand": "LION",
+        "price": "2.83",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Céréales Frosties miel et cacahuètes",
+        "brand": "KELLOGG'S",
+        "price": "3.572,49€",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      }
+    ],
+    [
+      {
+        "name": "Infusion aromatisé fraise framboise groseille avec une touche de menthe",
+        "brand": "ELEPHANT",
+        "price": "3.40",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Beurre de cacahuètes creamy sans huile de palme",
+        "brand": "MENGUY'S",
+        "price": "5.41",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Confiture de fraises bio",
+        "brand": "LES COMTES DE PROVENCE",
+        "price": "3.55",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Gelée de coings",
+        "brand": "BONNE MAMAN",
+        "price": "1.80",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Croustillant céréales bio au chocolat réduit en sucres",
+        "brand": "BJORG",
+        "price": "3.71",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cruesli céréales au chocolat noir",
+        "brand": "QUAKER",
+        "price": "6.41",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cruesli céréales au chocolat au lait",
+        "brand": "QUAKER",
+        "price": "6.62",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cruesli céréales au chocolat noir",
+        "brand": "QUAKER",
+        "price": "3.54",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cruesli céréales au chocolat au lait",
+        "brand": "QUAKER",
+        "price": "3.54",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Crousti'avoine céréales bio au chocolat",
+        "brand": "BJORG",
+        "price": "5.57",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Flocons d'avoine complète bio",
+        "brand": "BJORG",
+        "price": "2.49",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Cruesli Céréales croustillantes avec mélange de noix",
+        "brand": "QUAKER",
+        "price": "3.85",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Flocons d'avoine",
+        "brand": "QUAKER",
+        "price": "3.14",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Céréales pétales au goût de biscuit doré au four",
+        "brand": "GOLDEN GRAHAMS",
+        "price": "2.71",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Oats flocons d'avoine",
+        "brand": "QUAKER",
+        "price": "2.33",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muesli de céréales bio superfruits sans sucres ajoutés",
+        "brand": "BJORG",
+        "price": "3.75",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muesli de céréales bio avoine chocolat",
+        "brand": "BJORG",
+        "price": "4.10",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muesli de céréales bio raisin figue abricot",
+        "brand": "BJORG",
+        "price": "2.39",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muesli de céréales croustillant noix de pécan et noix du Brésil",
+        "brand": "QUAKER",
+        "price": "4.46",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Biscottes au blé complet sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "1.56",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature sans croûte sans huile de palme",
+        "brand": "HARRYS",
+        "price": "2.19",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches avec croûte sans additifs",
+        "brand": "HARRYS",
+        "price": "1.45",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature extra moelleux avec croûte sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "1.06",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches avec croûte spécial sandwich",
+        "brand": "HARRYS",
+        "price": "2.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature extra moelleux avec croûte sans sucres ajoutés",
+        "brand": "HARRYS",
+        "price": "1.39",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches sans croûte sans additifs",
+        "brand": "HARRYS",
+        "price": "2.12",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches avec croûte spécial sandwich",
+        "brand": "AUCHAN",
+        "price": "1.10",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature avec croûte sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "1.12",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature grandes tranches avec croûte spécial sandwich",
+        "brand": "AUCHAN",
+        "price": "1.65",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain tranché le grand nature sans gluten et sans lactose",
+        "brand": "GERBLE",
+        "price": "3.11",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      }
+    ],
+    [
+      {
+        "name": "Pain de mie complet grandes tranches avec croûte spécial sandwich",
+        "brand": "HARRYS",
+        "price": "1.67",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet grandes tranches avec croûte spécial sandwich",
+        "brand": "AUCHAN",
+        "price": "1.17",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet avec croûte spécial sandwich",
+        "brand": "AUCHAN",
+        "price": "1.75",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet grandes tranches avec croûte sans huile de palme",
+        "brand": "HARRYS",
+        "price": "2.16",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet sans sucres ajoutés",
+        "brand": "HARRYS",
+        "price": "2.10",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet avec croûte extra moelleux",
+        "brand": "AUCHAN",
+        "price": "0.84",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie aux 7 céréales grandes tranches avec croûte spécial sandwich",
+        "brand": "AUCHAN",
+        "price": "1.28",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie aux céréales et graines avec croûte sans huile de palme",
+        "brand": "HARRYS",
+        "price": "2.20",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de table au seigle",
+        "brand": "AUCHAN MMM!",
+        "price": "1.93",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie aux graines et céréales avec croûte",
+        "brand": "AUCHAN MMM!",
+        "price": "2.23",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de table aux céréales",
+        "brand": "AUCHAN MMM!",
+        "price": "2.15",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Tartines p'tit déj nature sans sucres ajoutés",
+        "brand": "JACQUET",
+        "price": "1.69",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature sans croûte sans additifs",
+        "brand": "HARRYS",
+        "price": "1.91",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet sans croûte sans additifs",
+        "brand": "HARRYS",
+        "price": "2.18",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature sans croûte sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "1.58",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature sans croûte sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "2.39",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet sans croûte sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "1.71",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie nature sans croûte sans sucres ajoutés sans huile de palme",
+        "brand": "HARRYS",
+        "price": "2.62",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Pain de mie complet bio sans croûte",
+        "brand": "LA BOULANGERE",
+        "price": "2.53",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muffins complets",
+        "brand": "AUCHAN",
+        "price": "1.87",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Muffins nature",
+        "brand": "AUCHAN",
+        "price": "1.74",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Mini baguettes précuites",
+        "brand": "AUCHAN",
+        "price": "0.81",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Petits pains précuits",
+        "brand": "AUCHAN",
+        "price": "1.13",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Mini tressées nature au sucre perlé sans huile de palme",
+        "brand": "HARRYS",
+        "price": "2.53",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre sans arôme artificiel",
+        "brand": "NESQUIK",
+        "price": "4.55",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Grand arôme chocolat en poudre 32% cacao",
+        "brand": "POULAIN",
+        "price": "4.04",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre sans arôme artificiel",
+        "brand": "NESQUIK",
+        "price": "3.73",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original chocolat en poudre granulés",
+        "brand": "BENCO",
+        "price": "2.66",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original chocolat en poudre granulés",
+        "brand": "BENCO",
+        "price": "5.06",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre en poche",
+        "brand": "BANANIA",
+        "price": "6.24",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      }
+    ],
+    [
+      {
+        "name": "Grand arôme chocolat en poudre 32% cacao",
+        "brand": "POULAIN",
+        "price": "2.45",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre éco-recharge",
+        "brand": "NESQUIK",
+        "price": "2.77",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "L'original cacao en poudre non sucré",
+        "brand": "VAN HOUTEN",
+        "price": "2.93",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre",
+        "brand": "NESQUIK",
+        "price": "2.69",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre 100% pur cacao non sucré",
+        "brand": "AUCHAN",
+        "price": "2.35",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre préparation pour boisson",
+        "brand": "AUCHAN BIO",
+        "price": "4.10",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre gourmand et onctueux",
+        "brand": "1848",
+        "price": "3.75",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Signature chocolat en poudre 42%",
+        "brand": "STARBUCKS",
+        "price": "5.94",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Chocolat en poudre bio",
+        "brand": "BANANIA",
+        "price": "9.13",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert citron intense",
+        "brand": "TWININGS",
+        "price": "3.08",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé saveur vanille",
+        "brand": "TWININGS",
+        "price": "2.88",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé de Ceylan intense et équilibré",
+        "brand": "TWININGS",
+        "price": "3.13",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original English breakfast thé corsé et équilibré",
+        "brand": "TWININGS",
+        "price": "3.52",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir saveur citron",
+        "brand": "AUCHAN",
+        "price": "0.98",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original earl grey thé aromatisé bergamote",
+        "brand": "TWININGS",
+        "price": "5.23",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir saveur fruits des bois",
+        "brand": "AUCHAN",
+        "price": "1.87",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original earl grey thé aromatisé bergamote en vrac",
+        "brand": "TWININGS",
+        "price": "7.20",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé bio fabulous thé vert citron",
+        "brand": "CLIPPER",
+        "price": "3.28",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert bio delicious",
+        "brand": "CLIPPER",
+        "price": "3.28",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert menthe",
+        "brand": "AUCHAN",
+        "price": "1.05",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert à la menthe",
+        "brand": "AUCHAN BIO",
+        "price": "1.90",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert menthe intense",
+        "brand": "LIPTON",
+        "price": "2.89",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert nature",
+        "brand": "AUCHAN BIO",
+        "price": "1.86",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé breakfast",
+        "brand": "AUCHAN",
+        "price": "1.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert à la menthe origine Asie",
+        "brand": "LIPTON",
+        "price": "3.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert bio gingembre citron vert",
+        "brand": "ETHIQUABLE",
+        "price": "3.19",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert classique origine Asie",
+        "brand": "LIPTON",
+        "price": "3.09",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert classique",
+        "brand": "LIPTON",
+        "price": "2.64",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert à la menthe bio",
+        "brand": "KUSMI TEA",
+        "price": "6.50",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert parfumé au jasmin bio",
+        "brand": "KUSMI TEA",
+        "price": "9.90",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      }
+    ],
+    [
+      {
+        "name": "Thé vert simplement pur",
+        "brand": "TWININGS",
+        "price": "3.17",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert jasmin",
+        "brand": "AUCHAN",
+        "price": "2.02",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert équitable gingembre citron vert",
+        "brand": "JARDIN BIO ETIC",
+        "price": "3.27",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Original earl grey thé aromatisé bergamote",
+        "brand": "TWININGS",
+        "price": "2.76",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir 5 fruits rouges",
+        "brand": "LIPTON",
+        "price": "1.65",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir pêche mangue",
+        "brand": "LIPTON",
+        "price": "1.98",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir russian earl grey bio",
+        "brand": "LIPTON",
+        "price": "3.34",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Yellow label thé noir origine Kenya",
+        "brand": "LIPTON",
+        "price": "1.74",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé russian earl grey aromatisé bergamote et citron",
+        "brand": "TWININGS",
+        "price": "3.55",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Yellow label thé noir origine Kenya",
+        "brand": "LIPTON",
+        "price": "5.72",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir citron",
+        "brand": "LIPTON",
+        "price": "1.73",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir Earl Grey bio à la bergamote",
+        "brand": "KUSMI TEA",
+        "price": "9.90",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé lady grey goût russe",
+        "brand": "TWININGS",
+        "price": "3.14",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir Earl Grey saveur bergamote",
+        "brand": "AUCHAN BIO",
+        "price": "1.59",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir English breakfast",
+        "brand": "TETLEY",
+        "price": "1.64",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Yellow thé noir bio",
+        "brand": "LIPTON",
+        "price": "2.23",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir Russian earl grey",
+        "brand": "AUCHAN",
+        "price": "1.78",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir bio de Ceylan à l'orange",
+        "brand": "ETHIQUABLE",
+        "price": "3.22",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir darjeeling",
+        "brand": "AUCHAN",
+        "price": "2.08",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir breakfast",
+        "brand": "AUCHAN BIO",
+        "price": "1.26",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé noir russian earl grey bio en vrac",
+        "brand": "LIPTON",
+        "price": "7.18",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Marrakech tea capsules compatible Dolce Gusto",
+        "brand": "NESCAFE",
+        "price": "4.72",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé russian earl grey en vrac",
+        "brand": "TWININGS",
+        "price": "7.95",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Gunpowder thé vert nature en vrac",
+        "brand": "TWININGS",
+        "price": "6.20",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Thé vert gunpowder n°1",
+        "brand": "SAMIA",
+        "price": "7.75",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion bio citron et gingembre",
+        "brand": "CLIPPER",
+        "price": "3.36",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion bio happy mondays citron gingembre poivre noir",
+        "brand": "CLIPPER",
+        "price": "2.59",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion AquaRosa bio fruits rouges hibiscus baies noires",
+        "brand": "KUSMI TEA",
+        "price": "9.90",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion détox fruits rouges",
+        "brand": "LA TISANIERE",
+        "price": "2.99",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      },
+      {
+        "name": "Infusion bio marchand de sable camomille mélisse lavande",
+        "brand": "CLIPPER",
+        "price": "3.36",
+        "categorie": "Petit déjeuner, thés, chocolats en poudre"
+      }
+    ],
+    [
+      {
+        "name": "Le brownie à partager chocolat noisettes",
+        "brand": "BROSSARD",
+        "price": "5.65",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Cream loop biscuits fourrés",
+        "brand": "AUCHAN",
+        "price": "0.88",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres chocolatées aux cacahuètes grillées et caramel",
+        "brand": "SNICKERS",
+        "price": "2.01",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Top biscuits nappés de caramel et de chocolat au lait",
+        "brand": "TWIX",
+        "price": "2.52",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gaufrette fourrée au lait et noisettes",
+        "brand": "KNOPPERS",
+        "price": "2.25",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Cream loop biscuits fourrés enrobés de chocolat blanc sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "2.32",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "La pause choco biscuits au chocolat sachets fraicheur",
+        "brand": "BONNE MAMAN",
+        "price": "2.95",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini Biscuits fourrés au chocolat",
+        "brand": "BN",
+        "price": "5.553,88€",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Madeleine pur beurre",
+        "brand": "ARMOR DELICES",
+        "price": "4.18",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Cookies aux pépites de chocolats et noisettes, sachets fraîcheur",
+        "brand": "BONNE MAMAN",
+        "price": "2.95",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gaufres fourrées à la vergeoise sachets fraîcheur",
+        "brand": "LOTUS",
+        "price": "2.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gaufres fourrées saveur vanille sachets fraîcheur",
+        "brand": "LOTUS",
+        "price": "2.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Pancakes fourrés chocolat sans huile de palme sachets individuels",
+        "brand": "WHAOU",
+        "price": "2.311,52€",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés à la fraise",
+        "brand": "BN",
+        "price": "5.553,88€",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gaufrette fourrée au lait et à la pâte de noisettes",
+        "brand": "KNOPPERS",
+        "price": "1.19",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Palmiers dorés sans sucres ajoutés",
+        "brand": "KARELEA",
+        "price": "2.83",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Galettes de riz complet bio",
+        "brand": "BJORG",
+        "price": "1.57",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Galettes de maïs bio extra-fines",
+        "brand": "BJORG",
+        "price": "1.65",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres chocolatées au biscuit recouvert de caramel",
+        "brand": "TWIX",
+        "price": "2.07",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "White barres chocolat blanc au biscuit recouvert de caramel",
+        "brand": "TWIX",
+        "price": "2.59",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini barres chocolatées au biscuit recouvert de caramel",
+        "brand": "TWIX",
+        "price": "5.65",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits lunettes fraise sans sucres ajoutés sans huile de palme",
+        "brand": "KARELEA",
+        "price": "3.41",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Goûter fourrés cacao sans gluten pochon",
+        "brand": "AUCHAN MIEUX VIVRE",
+        "price": "2.771,82€",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Les petits chocolatés Assortiment de biscuits aux chocolats",
+        "brand": "BONNE MAMAN",
+        "price": "9.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini suprême gaufrette enrobée de chocolat au lait",
+        "brand": "MILKA",
+        "price": "2.21",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits au sésame et chocolat",
+        "brand": "GERBLE",
+        "price": "2.93",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Telhas de amêndoa",
+        "brand": "FABRIDOCE",
+        "price": "2.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Confiture d'abricot sans sucres ajoutés",
+        "brand": "GERBLE",
+        "price": "3.18",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Brioches fourrées au chocolat",
+        "brand": "AUCHAN",
+        "price": "1.71",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Brioches aux pépites de chocolat",
+        "brand": "PITCH",
+        "price": "3.35",
+        "categorie": "Biscuits, gâteaux"
+      }
+    ],
+    [
+      {
+        "name": "Choco barre brioches chocolat au lait",
+        "brand": "PITCH",
+        "price": "2.95",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Brioches fourrées chocolat au lait",
+        "brand": "PITCH",
+        "price": "2.44",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Brioche au chocolat",
+        "brand": "PITCH",
+        "price": "2.45",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Brioches fourrées à la fraise",
+        "brand": "PITCH",
+        "price": "2.45",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au chocolat",
+        "brand": "NESQUIK",
+        "price": "2.38",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Protein barres de céréales cacahuètes et chocolat",
+        "brand": "NATURE VALLEY",
+        "price": "3.56",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au chocolat et cacahuètes",
+        "brand": "POUCE",
+        "price": "0.70",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au chocolat",
+        "brand": "GRANY",
+        "price": "3.07",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales, chocolat au lait et noisettes",
+        "brand": "GRANY",
+        "price": "2.28",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Crousty barres de céréales chocolat au lait et noisettes",
+        "brand": "AUCHAN",
+        "price": "1.81",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales aux pommes vertes",
+        "brand": "GRANY",
+        "price": "1.87",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Crousty barres de céréales au chocolat noir",
+        "brand": "AUCHAN",
+        "price": "1.52",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Crousty barres de céréales à la pomme verte",
+        "brand": "AUCHAN",
+        "price": "1.60",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Spécial K Barres céréales au chocolat au lait",
+        "brand": "KELLOGG'S",
+        "price": "2.64",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au chocolat et 5 céréales",
+        "brand": "GRANY",
+        "price": "1.87",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Crunchy barres de céréales avoine et miel",
+        "brand": "NATURE VALLEY",
+        "price": "3.14",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Frosties barres de céréales",
+        "brand": "KELLOGG'S",
+        "price": "2.36",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales goût chocolat banane",
+        "brand": "POUCE",
+        "price": "0.83",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Spécial K Barres céréales au chocolat noir",
+        "brand": "KELLOGG'S",
+        "price": "2.64",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Extra Barre de céréales aux amandes grillées et chocolat au lait",
+        "brand": "KELLOGG'S",
+        "price": "3.33",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barre de céréales au chocolat",
+        "brand": "AUCHAN BIO",
+        "price": "2.34",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales goût abricot pomme",
+        "brand": "POUCE",
+        "price": "0.75",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au riz soufflé et chocolat",
+        "brand": "GRANY",
+        "price": "2.17",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres de céréales au chocolat sans gluten",
+        "brand": "AUCHAN",
+        "price": "3.41",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "CereAlé Biscuits aux 7 céréales pépites de chocolat noir",
+        "brand": "KINDER",
+        "price": "3.10",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "CereAlé Biscuits aux 7 céréales noisette",
+        "brand": "KINDER",
+        "price": "3.10",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "CereAlé Biscuits aux 7 céréales cacao",
+        "brand": "KINDER",
+        "price": "3.10",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait",
+        "brand": "GRANOLA",
+        "price": "2.88",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "&go biscuits bâtonnets nappés au chocolat au lait",
+        "brand": "MIKADO",
+        "price": "2.05",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco Suprême biscuits gaufrettes enrobés au chocolat au lait",
+        "brand": "MILKA",
+        "price": "2.46",
+        "categorie": "Biscuits, gâteaux"
+      }
+    ],
+    [
+      {
+        "name": "Biscuits nappés de chocolat au lait sachets fraîcheur",
+        "brand": "DINOSAURUS",
+        "price": "2.27",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Nutella&Go biscuits et pâte à tartiner",
+        "brand": "NUTELLA",
+        "price": "2.54",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Duo Biscuits nappés de chocolat au lait et chocolat blanc",
+        "brand": "KINDER",
+        "price": "2.65",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini rollos biscuits cœur fondant au lait nappé de chocolat au lait",
+        "brand": "PEPITO",
+        "price": "1.91",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat au lait",
+        "brand": "PEPITO",
+        "price": "2.66",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat avec M&M's",
+        "brand": "M&M'S",
+        "price": "2.45",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés à la vanille enrobés au chocolat blanc",
+        "brand": "OREO",
+        "price": "3.28",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits bâtonnets nappés de chocolat au lait sachets fraîcheur",
+        "brand": "MIKADO",
+        "price": "4.95",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait croustillant",
+        "brand": "DELICHOC",
+        "price": "1.84",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat au lait",
+        "brand": "FINGER",
+        "price": "1.20",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco Moo biscuits nappés de chocolat au lait",
+        "brand": "MILKA",
+        "price": "1.94",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat noir sachets fraîcheur",
+        "brand": "LOTUS",
+        "price": "2.28",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "2.28",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés anglais nappés de chocolat au lait",
+        "brand": "MC VITIES",
+        "price": "2.16",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Bâtonnets biscuités nappés de chocolat au lait",
+        "brand": "MIKADO",
+        "price": "1.34",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits bâtonnets nappés au chocolat au lait",
+        "brand": "MIKADO",
+        "price": "2.68",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres fourrées biscuits au chocolat et lait sans huile de palme sachets individuels",
+        "brand": "AUCHAN",
+        "price": "1.57",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait, sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "1.33",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait",
+        "brand": "GRANOLA",
+        "price": "1.52",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés à la vanille Original",
+        "brand": "OREO",
+        "price": "2.21",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barquettes goût abricot sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "0.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits bâtonnets nappés au chocolat noir",
+        "brand": "MIKADO",
+        "price": "1.34",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco Suprême biscuits gaufrettes enrobés au chocolat au lait",
+        "brand": "MILKA",
+        "price": "4.03",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco wafer biscuits au chocolat blanc",
+        "brand": "MILKA",
+        "price": "2.46",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Les p'tits curieux sablés bio au chocolat au lait",
+        "brand": "BJORG",
+        "price": "3.55",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Bâtonnets nappés de chocolat au lait",
+        "brand": "AUCHAN BIO",
+        "price": "2.00",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Tartelettes nappées de chocolat",
+        "brand": "AUCHAN",
+        "price": "1.33",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Galette moelleuse gâteaux au chocolat au lait sans huile de palme sachets individuels",
+        "brand": "ST MICHEL",
+        "price": "2.16",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat au lait, sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "1.22",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat au lait croustillant",
+        "brand": "DELICHOC",
+        "price": "3.64",
+        "categorie": "Biscuits, gâteaux"
+      }
+    ],
+    [
+      {
+        "name": "Tendres coeurs gâteau nappé au chocolat au lait",
+        "brand": "BONNE MAMAN",
+        "price": "4.18",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco twizz bâtonnets nappés de chocolat au lait",
+        "brand": "AUCHAN",
+        "price": "1.22",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barres chocolatées au caramel",
+        "brand": "MARS",
+        "price": "2.07",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Galette moelleuse chocolat au lait",
+        "brand": "ST MICHEL",
+        "price": "5.39",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits sablés nappés de chocolat noir croustillant",
+        "brand": "DELICHOC",
+        "price": "2.03",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Crac choco biscuits nappés de chocolat au lait sans huile de palme",
+        "brand": "AUCHAN",
+        "price": "1.59",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits cacaotés fourrés à la vanille sachets fraîcheur",
+        "brand": "OREO",
+        "price": "4.45",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuit enrobé de chocolat au lait",
+        "brand": "OREO",
+        "price": "3.26",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés de chocolat au lait",
+        "brand": "MIKADO",
+        "price": "2.86",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Galette gourmande au chocolat au lait",
+        "brand": "ST MICHEL",
+        "price": "1.41",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fondants nappés de chocolat noir",
+        "brand": "BIG CHOCO",
+        "price": "2.52",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits nappés chocolat noir sachets fraîcheur",
+        "brand": "PETIT ECOLIER",
+        "price": "2.42",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés goût chocolat au blé complet ouverture facile",
+        "brand": "PRINCE",
+        "price": "4.15",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "La Barquette Lulu biscuits au chocolat",
+        "brand": "LU",
+        "price": "2.19",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gâteau moelleux aux pépites de chocolat, sachets individuels",
+        "brand": "PEPITO",
+        "price": "2.69",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "B-Ready gaufrettes fourrées de pâte à tartiner",
+        "brand": "NUTELLA",
+        "price": "4.29",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Barquettes chocolat-noisettes, sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "0.99",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits petit beurre nappés de chocolat au lait",
+        "brand": "PETIT ECOLIER",
+        "price": "3.16",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits croquants au cœur onctueux de Nutella",
+        "brand": "NUTELLA",
+        "price": "2.90",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits Baiocchi fourrés aux noisettes et cacao sachets fraîcheur",
+        "brand": "MULINO BIANCO",
+        "price": "3.31",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Cake & choc gâteaux aux pépites de chocolat, sachets individuels",
+        "brand": "MILKA",
+        "price": "1.94",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Cards gaufrettes fourrées au lait et au cacao",
+        "brand": "KINDER",
+        "price": "4.21",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés goût chocolat au blé complet ouverture facile",
+        "brand": "PRINCE",
+        "price": "3.07",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits mini goût chocolat",
+        "brand": "BN",
+        "price": "2.12",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Pockitos biscuits barre fourrés au chocolat au lait",
+        "brand": "PEPITO",
+        "price": "3.39",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Petits beurre avec tablette de chocolat au lait, sachets fraîcheur",
+        "brand": "AUCHAN",
+        "price": "2.05",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Gâteaux fourrés au chocolat sachets individuels",
+        "brand": "LULU L'OURSON",
+        "price": "1.52",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Tendre Cœur biscuits barre nappés au chocolat au lait",
+        "brand": "PETIT ECOLIER",
+        "price": "1.94",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Croc Biscuits sablés goût chocolat",
+        "brand": "PEPITO",
+        "price": "2.60",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Goûters fondants fourrés au chocolat",
+        "brand": "AUCHAN",
+        "price": "1.43",
+        "categorie": "Biscuits, gâteaux"
+      }
+    ],
+    [
+      {
+        "name": "Délice cacao",
+        "brand": "KINDER",
+        "price": "6.85",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco Pause biscuits fourrés au chocolat au lait",
+        "brand": "MILKA",
+        "price": "2.23",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits pocket goût chocolat au blé complet, sachets fraîcheur",
+        "brand": "PRINCE",
+        "price": "2.47",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Délice génoises au chocolat, sachets individuels",
+        "brand": "KINDER",
+        "price": "3.46",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits avec tablette de chocolat au lait",
+        "brand": "POUCE",
+        "price": "0.76",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Tronches de cake gâteaux moelleux fourrés chocolat, sachets individuels",
+        "brand": "ST MICHEL",
+        "price": "2.14",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco Pause biscuits fourrés au chocolat au lait",
+        "brand": "MILKA",
+        "price": "4.27",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Doonuts nappés au chocolat sans huile de palme, sachets individuels",
+        "brand": "ST MICHEL",
+        "price": "2.25",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choc & choc gâteaux fourrés et nappés au chocolat",
+        "brand": "MILKA",
+        "price": "2.09",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés chocolat céréales complètes",
+        "brand": "BN",
+        "price": "4.36",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Kango biscuits fourrés au chocolat",
+        "brand": "LU",
+        "price": "2.34",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini cakes fourrés chocolat emballage individuel",
+        "brand": "POUCE",
+        "price": "1.85",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Quadro l'original gaufrettes fourrées au praliné sachets individuels",
+        "brand": "CEMOI",
+        "price": "2.74",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco pépites gâteaux aux pépites de chocolat sachets individuels",
+        "brand": "MILKA",
+        "price": "2.05",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "L'original Gâteaux moelleux fourrés au chocolat en sachets individuels",
+        "brand": "NAPOLITAIN",
+        "price": "3.13",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Petits muffins au chocolat",
+        "brand": "BONNE MAMAN",
+        "price": "2.65",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "CULTIVONS LE BON Biscuits petit beurre avec tablette de chocolat noir",
+        "brand": "AUCHAN BIO",
+        "price": "2.01",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits cacaotés fourrés à la vanille sachets fraîcheur",
+        "brand": "OREO",
+        "price": "3.15",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Muffins aux pépites de chocolat, sachets individuels",
+        "brand": "AUCHAN",
+        "price": "2.25",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés chocolat céréales complètes",
+        "brand": "BN",
+        "price": "1.55",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Choco moo'elleux gâteaux aux pépites de chocolat sachets individuels",
+        "brand": "MILKA",
+        "price": "2.28",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Tender break biscuits fourrés cœur de chocolat, sachets individuels",
+        "brand": "MILKA",
+        "price": "2.62",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Mini roulés gâteaux fourrés au chocolat sachets individuels",
+        "brand": "PEPITO",
+        "price": "1.89",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Biscuits fourrés goût chocolat au blé complet ouverture facile",
+        "brand": "PRINCE",
+        "price": "1.57",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Pockitos biscuits barres croustillantes au chocolat au lait, sachets individuels",
+        "brand": "PEPITO",
+        "price": "1.96",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Petits cœurs biscuits feuilletés au chocolat",
+        "brand": "LU",
+        "price": "1.35",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Savane gâteau tout chocolat",
+        "brand": "BROSSARD",
+        "price": "2.56",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Savane Pépit' gâteaux aux pépites de chocolat sachets individuels",
+        "brand": "BROSSARD",
+        "price": "2.62",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Goûters fourrés ronds au chocolat, lot de 3",
+        "brand": "POUCE",
+        "price": "2.30",
+        "categorie": "Biscuits, gâteaux"
+      },
+      {
+        "name": "Petits marbrés au chocolat, sachets individuels",
+        "brand": "BONNE MAMAN",
+        "price": "3.90",
+        "categorie": "Biscuits, gâteaux"
+      }
+    ],
+    [
+      {
+        "name": "Peanuts bonbons chocolatés à la cacahuète",
+        "brand": "M&M'S",
+        "price": "5.20",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Barres chocolatées au biscuit recouvert de caramel",
+        "brand": "TWIX",
+        "price": "2.07",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et aux éclats de spéculoos",
+        "brand": "LOTUS",
+        "price": "3.11",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourrée de mini M&M'S crispy",
+        "brand": "M&M'S",
+        "price": "3.19",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourrée à la crème de spéculos",
+        "brand": "LOTUS",
+        "price": "2.29",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourrée au mini M&M'S peanut",
+        "brand": "M&M'S",
+        "price": "3.19",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait bio",
+        "brand": "NESTLE DESSERT",
+        "price": "4.412,91€",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat au lait fourré tiramisu",
+        "brand": "LINDT",
+        "price": "3.372,22€",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "3.85",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "5.43",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "2.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir pâtissier corsé 64% de cacao",
+        "brand": "AUCHAN",
+        "price": "1.74",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "2.83",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir pâtissier",
+        "brand": "MENIER",
+        "price": "1.92",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir pâtissier 52% de cacao",
+        "brand": "AUCHAN",
+        "price": "1.19",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat au lait pâtissier",
+        "brand": "AUCHAN",
+        "price": "1.72",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir pâtissier 52%",
+        "brand": "AUCHAN BIO",
+        "price": "2.06",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir intense 70% cacao pâtissier",
+        "brand": "LINDT",
+        "price": "3.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir pâtissier corsé",
+        "brand": "NESTLE DESSERT",
+        "price": "2.84",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat praliné pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "2.73",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat dessert blanc",
+        "brand": "AUCHAN",
+        "price": "1.99",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "2.72",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au caramel pâtissier",
+        "brand": "NESTLE DESSERT",
+        "price": "2.72",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat pâtissier pralinoise",
+        "brand": "POULAIN",
+        "price": "2.80",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat pâtissier praliné dessert",
+        "brand": "AUCHAN",
+        "price": "2.33",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir 51% cacao pâtissier",
+        "brand": "LINDT",
+        "price": "3.20",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les recettes de l'atelier tablette chocolat lait raisins amandes et noisettes",
+        "brand": "NESTLE",
+        "price": "3.73",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait du pays alpin",
+        "brand": "MILKA",
+        "price": "3.49",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablettes de chocolat au lait du Pays Alpin",
+        "brand": "MILKA",
+        "price": "5.77",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Maître chocolatier tablette de chocolat au lait extra fin",
+        "brand": "LINDT",
+        "price": "5.44",
+        "categorie": "Chocolats, confiseries"
+      }
+    ],
+    [
+      {
+        "name": "Tablettes de chocolat au lait et riz croustillant",
+        "brand": "CRUNCH",
+        "price": "2.31",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et noisettes entières",
+        "brand": "MILKA",
+        "price": "2.87",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait L'original en barres",
+        "brand": "COTE D'OR",
+        "price": "2.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et noisettes entières",
+        "brand": "COTE D'OR",
+        "price": "2.35",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait L'original",
+        "brand": "COTE D'OR",
+        "price": "4.02",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Mini tablettes de chocolat au lait",
+        "brand": "MILKA",
+        "price": "3.09",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait du pays alpin",
+        "brand": "MILKA",
+        "price": "2.26",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait, à la pointe de sel et aux amandes caramélisées",
+        "brand": "COTE D'OR",
+        "price": "3.44",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et riz croustillant",
+        "brand": "MILKA",
+        "price": "2.94",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait noisettes et amandes pilées",
+        "brand": "MERVEILLES DU MONDE",
+        "price": "2.82",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait tendre au lait",
+        "brand": "MILKA",
+        "price": "2.73",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait aux noisettes entières",
+        "brand": "AUCHAN",
+        "price": "1.84",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait",
+        "brand": "POUCE",
+        "price": "2.27",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait responsable des Hauts de France",
+        "brand": "POULAIN",
+        "price": "3.99",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Maître chocolatier tablette de chocolat au lait noisettes",
+        "brand": "LINDT",
+        "price": "4.53",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait raisins et noisettes entières",
+        "brand": "COTE D'OR",
+        "price": "3.13",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette chocolat au lait bio équitable au riz soufflé",
+        "brand": "ETHIQUABLE",
+        "price": "2.79",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "L'original tablette de chocolat au lait en barres",
+        "brand": "COTE D'OR",
+        "price": "4.57",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait",
+        "brand": "AUCHAN BIO",
+        "price": "1.55",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et Oréo",
+        "brand": "MILKA",
+        "price": "2.75",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et céréales croustillantes",
+        "brand": "POUCE",
+        "price": "1.96",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "MMMax tablette de chocolat au lait du pays Alpin",
+        "brand": "MILKA",
+        "price": "3.51",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait extra fin",
+        "brand": "LINDT",
+        "price": "7.15",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "MMMax tablette de chocolat au lait et noisettes entières",
+        "brand": "MILKA",
+        "price": "3.97",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les recettes de l'atelier tablette de chocolat au lait et amandes",
+        "brand": "NESTLE",
+        "price": "2.23",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait bio équitable tendre et fondant Pérou",
+        "brand": "ETHIQUABLE",
+        "price": "2.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat au lait fourrée mousse praliné",
+        "brand": "AUCHAN",
+        "price": "2.04",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Crousty & Fun tablette de chocolat au lait et céréales croustillantes",
+        "brand": "AUCHAN",
+        "price": "1.52",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait aux noisettes entières",
+        "brand": "MILKA",
+        "price": "2.89",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et éclats de noisettes",
+        "brand": "COTE D'OR",
+        "price": "3.77",
+        "categorie": "Chocolats, confiseries"
+      }
+    ],
+    [
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat au lait façon rocher",
+        "brand": "AUCHAN GOURMET",
+        "price": "2.14",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait tendre et fondant bio 41% cacao",
+        "brand": "KROKOLA",
+        "price": "3.26",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Maître chocolatier tablette de chocolat au lait noisettes",
+        "brand": "LINDT",
+        "price": "3.83",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et amandes caramélisées salées",
+        "brand": "AUCHAN",
+        "price": "1.84",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et céréales croustillantes bio",
+        "brand": "KROKOLA",
+        "price": "3.26",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait extra fondant",
+        "brand": "AUCHAN GOURMET",
+        "price": "1.14",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait, caramel et pointe de sel",
+        "brand": "AUCHAN GOURMET",
+        "price": "1.32",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait amandes et nougat",
+        "brand": "VILLARS",
+        "price": "4.08",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait popcorn et fleur de sel",
+        "brand": "AUCHAN",
+        "price": "1.99",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait",
+        "brand": "C'EST QUI LE PATRON ?!",
+        "price": "1.17",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir dessert 52%",
+        "brand": "AUCHAN",
+        "price": "3.43",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir extra",
+        "brand": "POULAIN",
+        "price": "3.97",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir et noisettes entières",
+        "brand": "COTE D'OR",
+        "price": "2.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir 85%",
+        "brand": "AUCHAN BIO",
+        "price": "1.38",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir 70%",
+        "brand": "AUCHAN BIO",
+        "price": "1.19",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir et amandes entières",
+        "brand": "COTE D'OR",
+        "price": "2.79",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio et équitable Pérou 85%",
+        "brand": "ALTER ECO",
+        "price": "2.65",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio de Madagascar 85%",
+        "brand": "ETHIQUABLE",
+        "price": "2.85",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir et quinoa soufflé bio et équitable du Pérou",
+        "brand": "ALTER ECO",
+        "price": "2.91",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir aux noisettes entières",
+        "brand": "AUCHAN",
+        "price": "1.49",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio et équitable Pérou 75%",
+        "brand": "ALTER ECO",
+        "price": "2.67",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio 80% cacao Equateur grand cru",
+        "brand": "ETHIQUABLE",
+        "price": "2.76",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio du Nicaragua 75%",
+        "brand": "ETHIQUABLE",
+        "price": "2.77",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir et éclats d'amandes bio et équitable du Pérou",
+        "brand": "ALTER ECO",
+        "price": "2.64",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir",
+        "brand": "POUCE",
+        "price": "2.16",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "L'original tablette de chocolat noir en barres",
+        "brand": "COTE D'OR",
+        "price": "2.36",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio et équitable du Pérou 90%",
+        "brand": "ALTER ECO",
+        "price": "2.67",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir aux amandes entières",
+        "brand": "AUCHAN",
+        "price": "1.49",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir",
+        "brand": "AUCHAN",
+        "price": "1.70",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Excellence tablette de chocolat noir 70% au sel rose de l'Himalaya",
+        "brand": "LINDT",
+        "price": "2.19",
+        "categorie": "Chocolats, confiseries"
+      }
+    ],
+    [
+      {
+        "name": "Tablette de chocolat noir et écorces d'orange bio et équitable Pérou",
+        "brand": "ALTER ECO",
+        "price": "2.52",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Dessert Tablette de chocolat noir pâtissier bio",
+        "brand": "NESTLE",
+        "price": "4.01",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Maître chocolatier tablette de chocolat noir extra fondant",
+        "brand": "LINDT",
+        "price": "4.77",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir noisettes et amandes pilées",
+        "brand": "MERVEILLES DU MONDE",
+        "price": "2.82",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio 70% fèves rares trinitario",
+        "brand": "COTE D'OR",
+        "price": "2.44",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir dessert",
+        "brand": "POUCE",
+        "price": "1.01",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Excellence tablette de chocolat noir pailleté et gaufrette",
+        "brand": "LINDT",
+        "price": "2.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio 85% fèves rares trinitario",
+        "brand": "COTE D'OR",
+        "price": "2.57",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio et caramel à la pointe de sel",
+        "brand": "ETHIQUABLE",
+        "price": "2.76",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir dégustation avec amandes caramélisées",
+        "brand": "AUCHAN BIO",
+        "price": "2.09",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les recettes de l'atelier tablette de chocolat noir aux amandes",
+        "brand": "NESTLE",
+        "price": "2.17",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Maître chocolatier tablette de chocolat noir extra fondant",
+        "brand": "LINDT",
+        "price": "5.69",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les recettes de l'atelier tablette de chocolat noir caramel pointe de sel",
+        "brand": "NESTLE",
+        "price": "2.07",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat noir façon rocher",
+        "brand": "AUCHAN GOURMET",
+        "price": "2.14",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir orange intense",
+        "brand": "AUCHAN",
+        "price": "2.00",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette chocolat noir mousse au chocolat",
+        "brand": "AUCHAN",
+        "price": "2.44",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat tendre noir",
+        "brand": "MILKA",
+        "price": "3.01",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir bio avec noisettes entières",
+        "brand": "COTE D'OR",
+        "price": "4.22",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette chocolat noir 55% fleur de sel",
+        "brand": "AUCHAN BIO",
+        "price": "2.09",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir extra fabriqué en France",
+        "brand": "POULAIN",
+        "price": "1.72",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir extra fondant",
+        "brand": "LINDT",
+        "price": "3.58",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc",
+        "brand": "GALAK",
+        "price": "2.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Milky&Fun tablette de chocolat blanc",
+        "brand": "AUCHAN",
+        "price": "1.55",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc",
+        "brand": "CRUNCH",
+        "price": "3.19",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc noix de coco et amande",
+        "brand": "RAFFAELLO",
+        "price": "2.43",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc noisettes entières",
+        "brand": "AUCHAN",
+        "price": "2.21",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "L'original tablette de chocolat blanc",
+        "brand": "COTE D'OR",
+        "price": "6.46",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc amandes et coco",
+        "brand": "VILLARS",
+        "price": "4.08",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les recettes de l'atelier tablette de chocolat au lait noisettes entières torréfiées",
+        "brand": "NESTLE",
+        "price": "3.73",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourré praliné et double lait",
+        "brand": "COTE D'OR",
+        "price": "3.16",
+        "categorie": "Chocolats, confiseries"
+      }
+    ],
+    [
+      {
+        "name": "Tablette de chocolat au lait et noisettes entières",
+        "brand": "COTE D'OR",
+        "price": "4.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait praliné noisettes",
+        "brand": "LINDT",
+        "price": "4.95",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat noir rocher noir",
+        "brand": "LINDT",
+        "price": "3.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat dégustation praliné feuilleté",
+        "brand": "LINDT",
+        "price": "3.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et Daim",
+        "brand": "MILKA",
+        "price": "2.75",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir fourré praliné",
+        "brand": "COTE D'OR",
+        "price": "3.14",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Lindor Tablette de chocolat au lait",
+        "brand": "LINDT",
+        "price": "2.84",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "MMMax tablette de chocolat au lait fourrée cacahuète et caramel",
+        "brand": "MILKA",
+        "price": "3.71",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir fourré à la pâte d'amande",
+        "brand": "COTE D'OR",
+        "price": "2.57",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait au biscuit Lu",
+        "brand": "MILKA",
+        "price": "3.37",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat au lait rocher lait",
+        "brand": "LINDT",
+        "price": "3.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création Tablette de chocolat façon crème brûlée",
+        "brand": "LINDT",
+        "price": "3.28",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création Tablette de chocolat noir menthe frappée",
+        "brand": "LINDT",
+        "price": "3.25",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourré praliné et caramel",
+        "brand": "COTE D'OR",
+        "price": "3.14",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Chocoletti carré de chocolat au lait praliné noisettes",
+        "brand": "LINDT",
+        "price": "1.83",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Lindor Tablette de chocolat noir fondant",
+        "brand": "LINDT",
+        "price": "2.84",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait et noisettes original",
+        "brand": "FERRERO ROCHER",
+        "price": "2.24",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat au lait fourrée au caramel",
+        "brand": "MILKA",
+        "price": "2.81",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat blanc fourrée aux noisettes",
+        "brand": "FERRERO ROCHER",
+        "price": "2.24",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création Tablette de chocolat noir fourrée praliné feuilleté 70% cacao",
+        "brand": "LINDT",
+        "price": "3.34",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Les Pyrénéens Tablette de chocolat au lait",
+        "brand": "LINDT",
+        "price": "3.03",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat fourré au caramel",
+        "brand": "LINDT",
+        "price": "2.87",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir truffé et cacao cœur coulant",
+        "brand": "COTE D'OR",
+        "price": "3.35",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Création tablette de chocolat au lait praliné feuillantine",
+        "brand": "LINDT",
+        "price": "3.43",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Excellence tablette de chocolat noir 70% avec éclats caramel de sel",
+        "brand": "LINDT",
+        "price": "3.05",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat noir fourrée au nougat",
+        "brand": "COTE D'OR",
+        "price": "2.63",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "MMMax tablette de chocolat au lait caramel et noisettes",
+        "brand": "MILKA",
+        "price": "3.74",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "Tablette de chocolat Oreo blanc",
+        "brand": "MILKA",
+        "price": "3.67",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "L'Atelier Tablette de chocolat au lait de dégustation fourré caramel salé",
+        "brand": "NESTLE",
+        "price": "3.39",
+        "categorie": "Chocolats, confiseries"
+      },
+      {
+        "name": "CULTIVONS LE BON Tablette de chocolat au lait praliné et éclats de nougatine",
+        "brand": "AUCHAN GOURMET",
+        "price": "2.14",
+        "categorie": "Chocolats, confiseries"
+      }
+    ],
+    [
+      {
+        "name": "Infusion ventre plat menthe poivrée anis mauve et réglisse",
+        "brand": "AUCHAN BIO",
+        "price": "2.01",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Infusion à froid brûle graisse bio",
+        "brand": "LA TISANIERE",
+        "price": "4.873,21€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme fraise poire banane sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "4.55",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme nature sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "3.48",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme abricot pêche mangue passion sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "4.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée de pomme sans sucres ajoutés en bocal",
+        "brand": "AUCHAN BIO",
+        "price": "2.31",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée pomme poire sans sucres ajoutés en bocal",
+        "brand": "AUCHAN BIO",
+        "price": "2.39",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée pomme banane sans sucres ajoutés en bocal",
+        "brand": "AUCHAN BIO",
+        "price": "2.74",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée pomme vanille sans sucres ajoutés en bocal",
+        "brand": "AUCHAN BIO",
+        "price": "2.52",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur chocolat 3,8%MG",
+        "brand": "MONT BLANC",
+        "price": "6.995,24€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Amandes en poudre",
+        "brand": "VAHINE",
+        "price": "3.492,30€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre en poudre",
+        "brand": "DADDY",
+        "price": "2.471,63€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre bio de fleur de coco",
+        "brand": "NATUR ATTITUD",
+        "price": "7.56",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Préparation pour fondant au chocolat tout prêt",
+        "brand": "AUCHAN",
+        "price": "2.65",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Préparation pour moelleux nature tout prêt",
+        "brand": "AUCHAN",
+        "price": "2.95",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Moelleux au Chocolat tout prêt",
+        "brand": "AUCHAN",
+        "price": "3.69",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Peau cheveux ongles",
+        "brand": "JUVAMINE",
+        "price": "7.295,10€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Bronzage sublime",
+        "brand": "JUVAMINE",
+        "price": "8.555,98€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Auto bronzant activateur bonne mine",
+        "brand": "JUVAMINE",
+        "price": "7.675,36€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscuits au cacao fourrés à la crème saveur vanille sachet fraîcheur",
+        "brand": "WW",
+        "price": "2.831,98€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscuits lunettes fraise sans sucres ajoutés sans huile de palme",
+        "brand": "KARELEA",
+        "price": "3.41",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Goûter fourrés cacao sans gluten pochon",
+        "brand": "AUCHAN MIEUX VIVRE",
+        "price": "2.771,82€",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Boisson épeautre",
+        "brand": "AUCHAN BIO",
+        "price": "1.94",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gélules minceur thé vert guarana brûle-graisse plus dosées",
+        "brand": "JUVAMINE",
+        "price": "5.95",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscuits au sésame et chocolat",
+        "brand": "GERBLE",
+        "price": "2.93",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Amandes émondées en poudre spécial pâtisserie",
+        "brand": "AUCHAN",
+        "price": "6.39",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Amandes crues décortiquées spécial pâtisserie",
+        "brand": "AUCHAN",
+        "price": "6.39",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Amandes décortiquées",
+        "brand": "AUCHAN ESSENTIEL",
+        "price": "2.29",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Infusion bio détox",
+        "brand": "CLIPPER",
+        "price": "3.36",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Infusion bio défenses immunitaires",
+        "brand": "YOGI",
+        "price": "2.90",
+        "categorie": "Desserts, sucres, farines, diététique"
+      }
+    ],
+    [
+      {
+        "name": "Confiture de fraise sans sucres ajoutés",
+        "brand": "GERBLE",
+        "price": "3.18",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme nature sans sucres ajoutés en bocal",
+        "brand": "ANDROS",
+        "price": "1.55",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Confiture d'abricot sans sucres ajoutés",
+        "brand": "GERBLE",
+        "price": "3.18",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscottes sans gluten",
+        "brand": "SCHAR",
+        "price": "6.00",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Pain maestro aux céréales sans gluten",
+        "brand": "SCHAR",
+        "price": "4.52",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Pain classique sans gluten",
+        "brand": "SCHAR",
+        "price": "4.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Pain campagnard sans gluten",
+        "brand": "SCHAR",
+        "price": "4.51",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coquilles moelleuses sans gluten sachets fraîcheur",
+        "brand": "AUCHAN MIEUX VIVRE",
+        "price": "2.29",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscuits sablés nappés chocolat au lait sans gluten",
+        "brand": "AUCHAN",
+        "price": "2.75",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Biscuits lait chocolat sachets fraîcheur",
+        "brand": "GERBLE",
+        "price": "1.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Barres vitamines & minéraux",
+        "brand": "OVOMALTINE",
+        "price": "2.97",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote bio pomme fraise poire abricot sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "8.64",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme nature sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "1.03",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme banane sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "1.37",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme pruneau sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "1.38",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme poire sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "1.45",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes purée de pomme poire sans sucres ajoutés",
+        "brand": "AUCHAN BIO",
+        "price": "2.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme pêche abricot banane allégé en sucres",
+        "brand": "MATERNE",
+        "price": "5.21",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert fruitier à la pomme sans sucres ajoutés",
+        "brand": "MATERNE",
+        "price": "1.78",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme fraise framboise sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "14.27",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme poire fraise banane sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "9.12",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme nature sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "7.78",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme poire fraise banane sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "5.09",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme nature allégé en sucres",
+        "brand": "AUCHAN",
+        "price": "2.99",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme fraise poire banane",
+        "brand": "AUCHAN",
+        "price": "3.98",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme banane fraise abricot poire",
+        "brand": "POM'POTES",
+        "price": "9.42",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme mûre framboise reine-claude sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "6.25",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote bio pomme nature sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "6.50",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme mirabelle pêche abricot sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "9.33",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert gourdes multi-variétés pomme fraise poire banane",
+        "brand": "AUCHAN",
+        "price": "6.89",
+        "categorie": "Desserts, sucres, farines, diététique"
+      }
+    ],
+    [
+      {
+        "name": "Gourdes compote pomme nature sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "5.18",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme nature",
+        "brand": "POM'POTES",
+        "price": "8.00",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes purée pomme fruits panachés sans sucres ajoutés bio",
+        "brand": "AUCHAN BIO",
+        "price": "7.09",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme pêche mirabelle abricot sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "6.32",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes 5 fruits pomme fraise framboise myrtille cerise et pomme mangue pèche abricot figue de Barbare",
+        "brand": "POM'POTES",
+        "price": "10.05",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote pomme ananas grenade et pomme framboise mûre",
+        "brand": "POM'POTES",
+        "price": "6.21",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes compote les p'tits explorateurs pomme banane grenade et pomme fraise myrtille",
+        "brand": "POM'POTES",
+        "price": "6.21",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme fraise allégé en sucres sans conservateur",
+        "brand": "AUCHAN",
+        "price": "1.56",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme banane allégé en sucres sans conservateur",
+        "brand": "AUCHAN",
+        "price": "1.56",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme nature sans sucres ajoutés sans conservateur",
+        "brand": "AUCHAN",
+        "price": "1.25",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes purée de pomme sans sucres ajoutés",
+        "brand": "AUCHAN BIO",
+        "price": "1.94",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes purée de pomme banane sans sucres ajoutés bio",
+        "brand": "AUCHAN BIO",
+        "price": "2.36",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme poire allégé en sucres",
+        "brand": "AUCHAN",
+        "price": "1.51",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gourdes pomme abricot pêche mirabelle sans sucres ajoutés",
+        "brand": "POM'POTES",
+        "price": "7.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert coupelles multi-variétés pomme framboise poire pêche sans sucre ajoutés",
+        "brand": "AUCHAN",
+        "price": "4.01",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Compote pomme allégé en sucre",
+        "brand": "AUCHAN",
+        "price": "3.42",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelle de pomme allégée en sucres",
+        "brand": "POUCE",
+        "price": "0.57",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme framboise pêche abricot poire sans sucres ajoutés",
+        "brand": "MATERNE",
+        "price": "4.79",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "CULTIVONS LE BON Purée de pomme sans sucres ajoutés en coupelles",
+        "brand": "AUCHAN BIO",
+        "price": "1.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme banane",
+        "brand": "POUCE",
+        "price": "0.60",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme nature bio sans sucres ajoutés",
+        "brand": "MATERNE",
+        "price": "4.13",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme nature allégé en sucres",
+        "brand": "MATERNE",
+        "price": "5.21",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme châtaigne",
+        "brand": "AUCHAN",
+        "price": "1.86",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Coupelles pomme mirabelle fruits rouges sans sucres ajoutés",
+        "brand": "MATERNE",
+        "price": "4.79",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme nature en bocal",
+        "brand": "ANDROS",
+        "price": "1.69",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert compote pomme poire en bocal",
+        "brand": "ANDROS",
+        "price": "1.88",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Compote de pomme allégée en sucres en bocal",
+        "brand": "POUCE",
+        "price": "0.85",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée de fruits à la pomme sans sucres ajoutés, en bocal",
+        "brand": "AUCHAN",
+        "price": "1.38",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Compote pomme vanille sans sucres ajoutés en bocal",
+        "brand": "AUCHAN",
+        "price": "1.65",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme vanille en bocal",
+        "brand": "ANDROS",
+        "price": "1.94",
+        "categorie": "Desserts, sucres, farines, diététique"
+      }
+    ],
+    [
+      {
+        "name": "Dessert pomme banane en bocal",
+        "brand": "ANDROS",
+        "price": "1.88",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme vanille bourbon sans sucres ajoutés, en bocal",
+        "brand": "JARDIN BIO ETIC",
+        "price": "3.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme poire williams sans sucres ajoutés, en bocal",
+        "brand": "JARDIN BIO ETIC",
+        "price": "3.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Spécialité de fruits pomme poire sans sucres ajoutés en bocal",
+        "brand": "AUCHAN",
+        "price": "1.68",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Dessert pomme nature sans sucres ajoutés fabriqué en France en bocal",
+        "brand": "JARDIN BIO ETIC",
+        "price": "3.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée de poire avec morceaux sans sucres ajoutés",
+        "brand": "AUCHAN",
+        "price": "2.52",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Purée de pommes en conversion biologique",
+        "brand": "TRANSITION",
+        "price": "4.15",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Goûter laitier en gourde saveur vanille",
+        "brand": "RÉCRÉ OLÉ",
+        "price": "6.55",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Goûter laitier en gourde saveur chocolat",
+        "brand": "RÉCRÉ OLÉ",
+        "price": "2.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Goûter laitier en gourde saveur vanille",
+        "brand": "RÉCRÉ OLÉ",
+        "price": "2.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur praliné",
+        "brand": "MONT BLANC",
+        "price": "3.80",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur chocolat",
+        "brand": "MONT BLANC",
+        "price": "2.57",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur vanille",
+        "brand": "MONT BLANC",
+        "price": "2.57",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur chocolat extra fin",
+        "brand": "MONT BLANC",
+        "price": "3.80",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Mon gâteau de riz nappé de caramel",
+        "brand": "YABON",
+        "price": "3.27",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème dessert saveur praliné",
+        "brand": "MONT BLANC",
+        "price": "2.63",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gâteau de semoule nappé de chocolat",
+        "brand": "YABON",
+        "price": "3.95",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Crème de marrons de l’Ardèche",
+        "brand": "CLEMENT FAUGIER",
+        "price": "2.64",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé fluide T45 sans grumeaux",
+        "brand": "AUCHAN",
+        "price": "0.95",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé T55",
+        "brand": "POUCE",
+        "price": "0.74",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé tous usages T45",
+        "brand": "FRANCINE",
+        "price": "1.29",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé T45",
+        "brand": "AUCHAN",
+        "price": "0.90",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé T65",
+        "brand": "AUCHAN BIO",
+        "price": "1.18",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé fluide l'originale anti-grumeaux T45",
+        "brand": "FRANCINE",
+        "price": "1.34",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé bio T55",
+        "brand": "FRANCINE",
+        "price": "2.24",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Fine chapelure de pain",
+        "brand": "TIPIAK",
+        "price": "1.79",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé semi-complète T110",
+        "brand": "AUCHAN BIO",
+        "price": "1.44",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "CULTIVONS LE BON Farine de sarrasin blé noir Français",
+        "brand": "AUCHAN",
+        "price": "2.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé pour gâteaux",
+        "brand": "FRANCINE",
+        "price": "1.92",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Ma farine de blé tous usages T45",
+        "brand": "FRANCINE",
+        "price": "1.69",
+        "categorie": "Desserts, sucres, farines, diététique"
+      }
+    ],
+    [
+      {
+        "name": "Farine fluide T45 doypack",
+        "brand": "AUCHAN",
+        "price": "1.65",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de blé fluide T45 anti-grumeaux",
+        "brand": "FRANCINE",
+        "price": "1.78",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Gaufre au blé semi complet et miel bio sans huile de palme",
+        "brand": "BJORG",
+        "price": "3.79",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Mon pain, farine multi-céréales",
+        "brand": "FRANCINE",
+        "price": "3.16",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "CULTIVONS LE BON Farine d'épeautre",
+        "brand": "AUCHAN BIO",
+        "price": "2.65",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine à pizza",
+        "brand": "FRANCINE",
+        "price": "1.98",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine de sarrasin blé noir",
+        "brand": "TREBLEC",
+        "price": "3.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Préparation pour pain sans gluten",
+        "brand": "AUCHAN MIEUX VIVRE",
+        "price": "6.54",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine boulangère sans levure pour pain brioché",
+        "brand": "AUCHAN",
+        "price": "1.50",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Farine préparation pour pain blanc T65",
+        "brand": "AUCHAN",
+        "price": "1.22",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Tapioca petits grains et velouté recette traditionnelle",
+        "brand": "TIPIAK",
+        "price": "2.09",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Fécule de pomme de terre",
+        "brand": "TIPIAK",
+        "price": "1.16",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure chimique",
+        "brand": "AUCHAN",
+        "price": "0.30",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure chimique Alsacienne",
+        "brand": "ALSA",
+        "price": "0.82",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure de boulangerie spéciale pain",
+        "brand": "AUCHAN",
+        "price": "0.81",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure du boulanger Briochin",
+        "brand": "ALSA",
+        "price": "1.07",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure du boulanger traditionnelle",
+        "brand": "VAHINE",
+        "price": "1.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure",
+        "brand": "LESAFFRE",
+        "price": "2.19",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Poudre à lever",
+        "brand": "AUCHAN BIO",
+        "price": "1.43",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure instantanée",
+        "brand": "LESAFFRE",
+        "price": "2.25",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Levure du boulanger levée rapide",
+        "brand": "VAHINE",
+        "price": "1.39",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre vanillé à l'extrait de vanille",
+        "brand": "AUCHAN",
+        "price": "0.87",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre vanillé",
+        "brand": "VAHINE",
+        "price": "2.28",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre vanillé de Madagascar goût intense",
+        "brand": "VAHINE",
+        "price": "2.40",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre vanilliné",
+        "brand": "VAHINE",
+        "price": "1.13",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Sucre vanillé à la vanille de bourbon bio en poudre",
+        "brand": "VAHINE",
+        "price": "3.53",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Lait concentré sucré",
+        "brand": "AUCHAN",
+        "price": "1.58",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Lait instantané demi-écrémé en poudre",
+        "brand": "REGILAIT",
+        "price": "3.08",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Lait concentré non sucré",
+        "brand": "AUCHAN",
+        "price": "1.59",
+        "categorie": "Desserts, sucres, farines, diététique"
+      },
+      {
+        "name": "Lait concentré sucré en tube",
+        "brand": "REGILAIT",
+        "price": "1.85",
+        "categorie": "Desserts, sucres, farines, diététique"
+      }
+    ],
+    [
+      {
+        "name": "Lait et céréales nature dès 6 mois bio",
+        "brand": "AUCHAN BABY BIO",
+        "price": "1.11",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait et céréales saveur vanille dès 6 mois bio",
+        "brand": "AUCHAN BABY BIO",
+        "price": "1.11",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait et céréales saveur fraise dès 12 mois bio",
+        "brand": "AUCHAN BABY BIO",
+        "price": "1.11",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Caprea 3 lait de croissance au lait de chèvre en poudre dès 10 mois",
+        "brand": "BABYBIO",
+        "price": "26.9317,77€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 1 lait 1er âge bio en poudre dès la naissance à 6 mois",
+        "brand": "GALLIA",
+        "price": "24.6916,29€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 3 lait de croissance en poudre bio dès 10 mois",
+        "brand": "GALLIA",
+        "price": "20.1213,27€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Céréales avoine blé riz bio en poudre dès 6 mois",
+        "brand": "GOOD GOUT",
+        "price": "4.502,97€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Evolia a2 Lait 2ème âge en relais de l'allaitement maternel dès 6 mois",
+        "brand": "GUIGOZ",
+        "price": "16.9511,18€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance liquide dès 12 mois",
+        "brand": "GUIGOZ",
+        "price": "11.35",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance 3 bio en poudre Essentia dès 10 mois",
+        "brand": "HIPP",
+        "price": "8.99",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance en poudre bio dès 10 mois",
+        "brand": "MODILAC",
+        "price": "16.7111,02€",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale aux céréales complètes vanille biscuit en poudre dès 12 mois",
+        "brand": "NESTLE",
+        "price": "3.90",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Optima 1 lait 1er âge en poudre dès la naissance à 6 mois",
+        "brand": "BABYBIO",
+        "price": "21.29",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait 1 lait 1er âge en poudre dès la naissance à 6 mois",
+        "brand": "BLEDINA",
+        "price": "16.42",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 1 lait 1er âge en poudre dès la naissance à 6 mois",
+        "brand": "GALLIA",
+        "price": "19.59",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Galliagest premium 1 lait 1er âge en poudre dès la naissance",
+        "brand": "GALLIA",
+        "price": "21.16",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma relais 1 lait 1er âge en poudre dès la naissance à 6 mois",
+        "brand": "GALLIA",
+        "price": "21.12",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 1 lait 1er âge en poudre dès la naissance",
+        "brand": "GALLIA",
+        "price": "25.92",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 1 lait 1er âge en sachet dès la naissance",
+        "brand": "GALLIA",
+        "price": "19.90",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Optipro 1 lait 1er âge en poudre dès la naissance",
+        "brand": "GUIGOZ",
+        "price": "18.44",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Guigozgest 1 lait 1er âge en poudre épaissi dès la naissance",
+        "brand": "GUIGOZ",
+        "price": "20.35",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Pelargon 1 lait 1er âge en poudre dès la naissance",
+        "brand": "GUIGOZ",
+        "price": "20.65",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait infantile dès la naissance jusqu'à 6 mois",
+        "brand": "GUIGOZ",
+        "price": "20.08",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait 1er âge en poudre bio dès la naissance",
+        "brand": "GUIGOZ",
+        "price": "22.88",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait bio en poudre Combiotic 1er âge dès la naissance",
+        "brand": "HIPP",
+        "price": "20.89",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Essentia Lait 1er âge bio en poudre dès la naissance",
+        "brand": "HIPP",
+        "price": "14.46",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Combiotic lait 1er âge bio en poudre formule épaissie dès la naissance",
+        "brand": "HIPP",
+        "price": "21.37",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Doucéa 1 lait 1er âge en poudre dès la naissance",
+        "brand": "MODILAC",
+        "price": "21.27",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Nidal 1 lait 1er âge en poudre dès la naissance",
+        "brand": "NESTLE",
+        "price": "15.34",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait 1er âge en poudre dès la naissance",
+        "brand": "PICOT",
+        "price": "18.95",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      }
+    ],
+    [
+      {
+        "name": "Optima 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "BABYBIO",
+        "price": "20.78",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait 2 lait 2ème âge en poudre de 6 à 12 mois",
+        "brand": "BLEDINA",
+        "price": "15.38",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait 2ème âge liquide dès 6 mois",
+        "brand": "CANDIA BABY",
+        "price": "13.46",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "GALLIA",
+        "price": "18.05",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Galliagest premium 2 lait 2ème âge en poudre de 6 à 12 mois",
+        "brand": "GALLIA",
+        "price": "20.97",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "GALLIA",
+        "price": "22.79",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma relais 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "GALLIA",
+        "price": "19.96",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 2 lait 2ème âge en sachet dès 6 mois",
+        "brand": "GALLIA",
+        "price": "21.22",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Optipro 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "GUIGOZ",
+        "price": "15.50",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Guigozgest 2 lait 2ème âge en poudre épaissi dès 6 mois",
+        "brand": "GUIGOZ",
+        "price": "20.17",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait 2ème âge en poudre bio dès 6 mois",
+        "brand": "GUIGOZ",
+        "price": "21.18",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Pelargon 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "GUIGOZ",
+        "price": "20.68",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Combiotic 2 Lait 2ème âge bio en poudre dès 6 mois",
+        "brand": "HIPP",
+        "price": "19.75",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Essentia Lait de croissance 2 bio en poudre dès 6 mois",
+        "brand": "HIPP",
+        "price": "13.16",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de suite 2ème âge bio en poudre Combiotic formule épaissie dès 6 mois",
+        "brand": "HIPP",
+        "price": "20.43",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Doucéa 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "MODILAC",
+        "price": "16.97",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Nidal 2 lait 2ème âge en poudre dès 6 mois",
+        "brand": "NESTLE",
+        "price": "12.25",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait 2ème âge en poudre dès 6 mois",
+        "brand": "PICOT",
+        "price": "16.39",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance liquide dès 12 mois",
+        "brand": "AUCHAN BABY",
+        "price": "5.59",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance liquide dès 12 mois",
+        "brand": "AUCHAN BABY",
+        "price": "9.05",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait croissance liquide dès 10 mois",
+        "brand": "BABYBIO",
+        "price": "14.76",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Optima 3 Lait de croissance 3éme âge dès 10 mois",
+        "brand": "BABYBIO",
+        "price": "19.76",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Primea 3 lait de croissance en poudre dès 10 mois",
+        "brand": "BABYBIO",
+        "price": "17.72",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait 3 lait de croissance en poudre dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "16.13",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait junior+ 4 lait en poudre dès 18 mois",
+        "brand": "BLEDINA",
+        "price": "12.23",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait 3 lait de croissance liquide dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "13.80",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédilait 3 lait de croissance en poudre dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "11.50",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance 3 dès 10 mois",
+        "brand": "CANDIA BABY",
+        "price": "13.19",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "3 lait de croissance liquide dès 10 mois",
+        "brand": "CANDIA BABY",
+        "price": "12.54",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "3 Lait de croissance liquide dès 10 mois",
+        "brand": "CANDIA BABY",
+        "price": "3.53",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      }
+    ],
+    [
+      {
+        "name": "3 lait de croissance liquide au chocolat dès 10 mois",
+        "brand": "CANDIA BABY",
+        "price": "4.62",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait croissance bio liquide dès 10 mois",
+        "brand": "EVEIL",
+        "price": "13.80",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 3 lait de croissance en poudre dès 12 mois",
+        "brand": "GALLIA",
+        "price": "13.32",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Galliagest 3 lait de croissance en poudre dès 12 mois",
+        "brand": "GALLIA",
+        "price": "16.85",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma 3 lait de croissance liquide dès 12 mois",
+        "brand": "GALLIA",
+        "price": "9.48",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Calisma junior 4 lait en poudre dès 18 mois",
+        "brand": "GALLIA",
+        "price": "13.27",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Optipro 3 lait de croissance en poudre dès 12 mois",
+        "brand": "GUIGOZ",
+        "price": "11.49",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance en poudre bio dès 10 mois",
+        "brand": "GUIGOZ",
+        "price": "18.04",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Evolia a2 Lait de croissance en poudre dès 12 mois",
+        "brand": "GUIGOZ",
+        "price": "15.83",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance bio en poudre Combiotic 3 dès 10 mois",
+        "brand": "HIPP",
+        "price": "17.58",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eveil 3 lait de croissance nature liquide dès 12 mois",
+        "brand": "LACTEL",
+        "price": "11.96",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Doucéa 3 lait de croissance en poudre dès 12 mois",
+        "brand": "MODILAC",
+        "price": "14.32",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Nidal 3 lait de croissance en poudre dès 12 mois",
+        "brand": "NESTLE",
+        "price": "10.89",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Lait de croissance 3 en poudre nature dès 10 mois",
+        "brand": "PICOT",
+        "price": "12.33",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Céréales vanille avec quinoa bio en poudre dès 6 mois",
+        "brand": "BABYBIO",
+        "price": "4.69",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Céréales bio en poudre verveine fleur d'oranger et camomille dès 6 mois",
+        "brand": "BABYBIO",
+        "price": "6.01",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Céréales bio en poudre au cacao dès 8 mois",
+        "brand": "BABYBIO",
+        "price": "4.44",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédine céréales à la vanille en poudre dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "2.93",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédine céréales saveur brioche et pépites de chocolat en poudre dès 15 mois",
+        "brand": "BLEDINA",
+        "price": "3.19",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédiner céréales en poudre riz carottes sans gluten des 6 mois",
+        "brand": "BLEDINA",
+        "price": "2.97",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédine céréales en poudre blé et vanille dès 6 mois",
+        "brand": "BLEDINA",
+        "price": "2.51",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées biscuité vanille dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "3.79",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées chocolat gourmand dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "3.79",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées choco-biscuitée dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "3.82",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées vanille dès 6 mois",
+        "brand": "BLEDINA",
+        "price": "3.89",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées saveur biscuitée dès 6 mois",
+        "brand": "BLEDINA",
+        "price": "3.91",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées à la madeleine dès 9 mois",
+        "brand": "BLEDINA",
+        "price": "3.83",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées biscuité vanille dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "1.95",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej Céréales lactées en brique dès 6 mois",
+        "brand": "BLEDINA",
+        "price": "3.91",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées chocolat dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "1.95",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      }
+    ],
+    [
+      {
+        "name": "Blédidej céréales lactées choco-vanille dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "3.94",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées biscuité choco dès 12 mois",
+        "brand": "BLEDINA",
+        "price": "1.95",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées saveur briochée dès 6 mois",
+        "brand": "BLEDINA",
+        "price": "3.89",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédidej céréales lactées pain au chocolat dès 9 mois",
+        "brand": "BLEDINA",
+        "price": "3.84",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Mini matin céréales complètes au cacao dès 15 mois",
+        "brand": "BLEDINA",
+        "price": "2.06",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Blédine céréales en poudre saveur biscuit dès 6 mois",
+        "brand": "BLEDINE",
+        "price": "2.40",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Céréales banane cacao bio en poudre dès 8 mois",
+        "brand": "HIPP",
+        "price": "3.40",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Babicao céréales au cacao en poudre dès 10 mois",
+        "brand": "NESTLE",
+        "price": "3.78",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite céréale complètes au chocolat au lait saveur biscuit en poudre dès 12 mois",
+        "brand": "NESTLE",
+        "price": "3.90",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale aux céréales complètes noisette biscuit en poudre dès 12 mois",
+        "brand": "NESTLE",
+        "price": "3.90",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale 5 céréales cacao sans sucres ajoutés en poudre dès 6 mois",
+        "brand": "NESTLE",
+        "price": "2.69",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale 5 céréales biscuits sans sucres ajoutés en poudre dès 6 mois",
+        "brand": "NESTLE",
+        "price": "3.12",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite céréale 5 céréales nature sans sucres ajoutés en poudre dès 6 mois",
+        "brand": "NESTLE",
+        "price": "3.15",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale 5 céréales miel en poudre dès 8 mois",
+        "brand": "NESTLE",
+        "price": "3.12",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "P'tite Céréale 5 céréales vanille sans sucres ajoutés en poudre dès 6 mois",
+        "brand": "NESTLE",
+        "price": "3.12",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "EVIAN",
+        "price": "3.78",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "EVIAN",
+        "price": "3.30",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "EVIAN",
+        "price": "4.80",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale plate naturelle",
+        "brand": "MONT BLANC",
+        "price": "3.78",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "MONT ROUCOUS",
+        "price": "3.00",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "VOLVIC",
+        "price": "3.36",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "VOLVIC",
+        "price": "2.40",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "VOLVIC",
+        "price": "3.18",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minéral naturelle plate",
+        "brand": "VOLVIC",
+        "price": "0.56",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "EVIAN",
+        "price": "3.08",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Eau minérale naturelle plate",
+        "brand": "EVIAN",
+        "price": "2.82",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      }
+    ],
+    [
+      {
+        "name": "Filet de cabillaud",
+        "brand": "AUCHAN",
+        "price": "14.95",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "CULTIVONS LE BON Saumon fumé de Norvège",
+        "brand": "AUCHAN COLLECTION",
+        "price": "7.49",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "CULTIVONS LE BON Lait demi-écrémé UHT",
+        "brand": "AUCHAN SOLIDAIRES BIO",
+        "price": "6.60",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Alèses protège-matelas 60x90cm",
+        "brand": "AUCHAN",
+        "price": "12.29",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Oeufs de poules élevées en plein air sans ogm",
+        "brand": "AUCHAN",
+        "price": "3.11",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Asperges blanches grosses en bocal",
+        "brand": "AUCHAN",
+        "price": "4.79",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Emmental râpé français",
+        "brand": "AUCHAN",
+        "price": "3.20",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "Atomiseur d'eau",
+        "brand": "COSMIA",
+        "price": "2.05",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      },
+      {
+        "name": "CULTIVONS LE BON Tomates cerises rondes en grappes",
+        "brand": "AUCHAN",
+        "price": "3.99",
+        "categorie": "Laits, petits-déjeuners de bébé"
+      }
+    ]
+  ]
+}
