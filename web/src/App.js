@@ -4,7 +4,7 @@ import { Button, Input, FormControl } from "@ode-react-ui/components";
 import { useEffect } from 'react';
 
 function App() {
-  if (sessionStorage.getItem("localtunnel") === null) {
+  if (localStorage.getItem("localtunnel") === null) {
     return (
       <div className="App">
         <FormControl className="getLocaltunnel">
@@ -38,7 +38,7 @@ function App() {
                 if (data.message != "auchancrawler") {
                   alert("The address provided appears to be incorrect. Please check it and try again.")
                 } else {
-                  sessionStorage.setItem("localtunnel", localtunnel);
+                  localStorage.setItem("localtunnel", localtunnel);
                   window.location.reload();
                 }
               })
@@ -52,7 +52,7 @@ function App() {
   } else {
     useEffect(() => {
       setInterval(()=>{
-        fetch(sessionStorage.getItem("localtunnel") + "/auchancrawler", {
+        fetch(localStorage.getItem("localtunnel") + "/auchancrawler", {
           headers: {
             "Bypass-Tunnel-Reminder": "true"
           }
@@ -60,19 +60,38 @@ function App() {
           if (res.status === 200) {
             return res.json();
           } else {
-            sessionStorage.removeItem("localtunnel");
+            localStorage.removeItem("localtunnel");
             window.location.reload();
           }
         }).then((data) => {
           if (data.message != "auchancrawler") {
-            sessionStorage.removeItem("localtunnel");
+            localStorage.removeItem("localtunnel");
             window.location.reload();
           }
         }).catch((err) => {
-          sessionStorage.removeItem("localtunnel");
+          localStorage.removeItem("localtunnel");
           window.location.reload();
         })
       }, 1000)
+
+      document.getElementById("search").addEventListener("keyup", (e) => {  
+        if (e.target.value != "") {
+          fetch(`${localStorage.getItem("localtunnel")}/search?q=${e.target.value}&page=1`, {
+            headers: {
+              "Bypass-Tunnel-Reminder": "true"
+            }
+          })
+            .then((res) => {
+              return res.json();
+            })
+            .then((data) => {
+              document.getElementById("Results-Products").innerHTML = "";
+              for (let p = 0; p < data.data.products.length; p++) {
+                document.getElementById("Results-Products").innerHTML += `<div class="Product"><img src="${data.data.products[p].image}" /><div class="Product-Info"><div class="Product-Name">${data.data.products[p].name}</div><div class="Product-Brand">${data.data.products[p].brand}</div><div class="Product-Price">${data.data.products[p].price}</div></div></div>`
+              }
+            })
+        }
+      })
     })
     return (
       <div className="App">
@@ -81,10 +100,12 @@ function App() {
             placeholder="Search for a product, brand or category..."
             size="md"
             type="text"
+            id="search"
           />
         </FormControl>
         <div className="Results">
-          <div id="Results-Products"></div>
+          <div id="Results-Products">
+          </div>
           <div id="Results-Brands"></div>
           <div id="Results-Categories"></div>
         </div>
