@@ -1,1 +1,366 @@
-{}
+{
+  "categories": [
+    [
+      {
+        "name": "Apéritif",
+        "url": "/epicerie-salee/aperitif/ca-n0601",
+        "uuid": "ad8691c1-2701-4df7-b45f-ec0a45558952"
+      },
+      {
+        "name": "Huiles, sauces, aides culinaires",
+        "url": "/epicerie-salee/huiles-sauces-aides-culinaires/ca-n0608",
+        "uuid": "de68eb38-d6ca-43cf-8a75-d993973b05e9"
+      },
+      {
+        "name": "Conserves, soupes",
+        "url": "/epicerie-salee/conserves-soupes/ca-n0607",
+        "uuid": "04120eb2-619b-4051-9080-11a48fc9fe56"
+      },
+      {
+        "name": "Pâtes, riz, légumes secs",
+        "url": "/epicerie-salee/pates-riz-legumes-secs/ca-n0605",
+        "uuid": "059238e8-1962-493b-af5a-a286842b757f"
+      },
+      {
+        "name": "Plats cuisinés, produits du monde",
+        "url": "/epicerie-salee/plats-cuisines-produits-du-monde/ca-n0606",
+        "uuid": "f5775184-6647-4f57-8e7e-9fcf4642d0bc"
+      },
+      {
+        "name": "Bières, fûts, cidres",
+        "url": "/vins-bieres-alcool/bieres-futs-cidres/ca-n071201",
+        "uuid": "211cbf42-9e0b-4564-b172-3850f17035bc"
+      },
+      {
+        "name": "Apéritifs, spiritueux",
+        "url": "/vins-bieres-alcool/aperitifs-spiritueux/ca-n0707",
+        "uuid": "55174220-f9d4-4f6c-8fc8-1b894214c0f7"
+      },
+      {
+        "name": "Vins",
+        "url": "/vins-bieres-alcool/vins/ca-n0709",
+        "uuid": "3a6df2c4-7f3f-490f-a3e3-d97b912ddf65"
+      },
+      {
+        "name": "Champagnes, vins effervescents",
+        "url": "/vins-bieres-alcool/champagnes-vins-effervescents/ca-n0710",
+        "uuid": "905e44c5-2466-4d13-974c-624d226c6c9d"
+      },
+      {
+        "name": "La grande cave Auchan",
+        "url": "/vins-bieres-alcool/la-grande-cave-auchan/ca-310320214125",
+        "uuid": "2a0c238a-363c-498f-ad63-ae25dd3b7b86"
+      },
+      {
+        "name": "Cafés",
+        "url": "/epicerie-sucree/cafes/ca-n0502",
+        "uuid": "19cfcfd3-b47a-4f4b-8b6a-55c55194c94f"
+      },
+      {
+        "name": "Petit déjeuner, thés, chocolats en poudre",
+        "url": "/epicerie-sucree/petit-dejeuner-thes-chocolats-en-poudre/ca-n0503",
+        "uuid": "df744d36-bf06-4589-8f32-d1bb196c11e1"
+      },
+      {
+        "name": "Biscuits, gâteaux",
+        "url": "/epicerie-sucree/biscuits-gateaux/ca-n0505",
+        "uuid": "eb7b71f9-df07-4778-b450-c16f2a7d5bcc"
+      },
+      {
+        "name": "Chocolats, confiseries",
+        "url": "/epicerie-sucree/chocolats-confiseries/ca-n0507",
+        "uuid": "b3ea9d05-974a-4920-946f-f3955a35e4f0"
+      },
+      {
+        "name": "Desserts, sucres, farines, diététique",
+        "url": "/epicerie-sucree/desserts-sucres-farines-dietetique/ca-n0511",
+        "uuid": "6e7d7ffc-d935-440a-bb20-8d8ca23f0fe6"
+      },
+      {
+        "name": "Crèmerie, oeufs, laits, boissons végétales",
+        "url": "/oeufs-produits-laitiers/cremerie-oeufs-laits/ca-n0101",
+        "uuid": "558ef700-3c13-42d3-8e1a-9886e99feb55"
+      },
+      {
+        "name": "Yaourts, fromages blancs",
+        "url": "/oeufs-produits-laitiers/yaourts-fromages-blancs/ca-n0102",
+        "uuid": "e0f59948-4714-4b09-a7fa-45710b17be98"
+      },
+      {
+        "name": "Desserts, compotes",
+        "url": "/oeufs-produits-laitiers/desserts-compotes/ca-n0103",
+        "uuid": "2dbdc87c-418b-44ef-a29b-edd03c820037"
+      },
+      {
+        "name": "Fromages à déguster, à la coupe",
+        "url": "/oeufs-produits-laitiers/fromages-a-deguster-a-la-coupe/ca-n0108",
+        "uuid": "824cffa9-0e44-49b7-8427-b7d8f347d252"
+      },
+      {
+        "name": "Fromages à cuisiner, apéritifs, râpés",
+        "url": "/oeufs-produits-laitiers/fromages-a-cuisiner-aperitifs-rapes/ca-n0106",
+        "uuid": "5dc26384-8685-42e4-9b76-2f99693a8419"
+      },
+      {
+        "name": "Laits, petits-déjeuners de bébé",
+        "url": "/bebe/laits-petits-dejeuners-de-bebe/ca-n0801",
+        "uuid": "88218028-2297-4658-ace4-f1a322c56b28"
+      },
+      {
+        "name": "Repas, desserts, goûters de bébé",
+        "url": "/bebe/repas-desserts-gouters-de-bebe/ca-n0802",
+        "uuid": "b680ce6e-9d6d-4b9b-ad30-adbf16ce44f1"
+      },
+      {
+        "name": "Couches, toilette de bébé",
+        "url": "/bebe/couches-toilette-de-bebe/ca-n0806",
+        "uuid": "f7a003b8-5dd0-4663-a742-207a9eb51836"
+      },
+      {
+        "name": "Puériculture",
+        "url": "/bebe/puericulture/ca-7135353",
+        "uuid": "fb7854a2-d984-4f27-b101-21f669a7a8a7"
+      },
+      {
+        "name": "Vêtements, chaussures bébé",
+        "url": "/bebe/vetements-chaussures-bebe/ca-8841655",
+        "uuid": "95ceb8ff-0f3c-480e-8c43-5b334620dd57"
+      },
+      {
+        "name": "Soins du visage, hygiène dentaire, maquillage",
+        "url": "/hygiene-beaute-parapharmacie/soins-du-visage-hygiene-dentaire-maquillage/ca-n0904",
+        "uuid": "30cfc723-ffb1-4bd8-b452-9e3b9dac2a8e"
+      },
+      {
+        "name": "Hygiène, soins du corps",
+        "url": "/hygiene-beaute-parapharmacie/hygiene-soins-du-corps/ca-n0902",
+        "uuid": "105d906e-ab36-44ec-98e4-461130a5a12a"
+      },
+      {
+        "name": "Soins des cheveux",
+        "url": "/hygiene-beaute-parapharmacie/soins-des-cheveux/ca-n0903",
+        "uuid": "0828034b-1228-4754-8c02-c2813636eaab"
+      },
+      {
+        "name": "Hygiène, soins homme",
+        "url": "/hygiene-beaute-parapharmacie/hygiene-soins-homme/ca-n0908",
+        "uuid": "3bdc4431-82ca-45df-9257-0488db707487"
+      },
+      {
+        "name": "Mouchoirs, protections hygiéniques, petite parapharmacie",
+        "url": "/hygiene-beaute-parapharmacie/mouchoirs-protections-hygieniques-petite-parapharmacie/ca-n0909",
+        "uuid": "2d142f49-fc78-46c0-9316-6db15f8be6c3"
+      },
+      {
+        "name": "Chat",
+        "url": "/animalerie/chat/ca-n1101",
+        "uuid": "f018c114-16a1-4ad1-90bc-88977e85972d"
+      },
+      {
+        "name": "Chien",
+        "url": "/animalerie/chien/ca-n1102",
+        "uuid": "5de7494a-9c41-4ca7-967c-79d2a75227b6"
+      },
+      {
+        "name": "Rongeurs, oiseaux, poissons",
+        "url": "/animalerie/rongeurs-oiseaux-poissons/ca-n1103",
+        "uuid": "9137c795-c418-4aa2-a248-60abc3e66f38"
+      },
+      {
+        "name": "Accessoires animalerie",
+        "url": "/animalerie/accessoires-animalerie/ca-n1104",
+        "uuid": "b0860d3c-105f-4326-8710-50fedfd70623"
+      },
+      {
+        "name": "Eaux, laits",
+        "url": "/boissons-sans-alcool/eaux-laits/ca-n0701",
+        "uuid": "649dab57-63ae-4318-81aa-0a94d1fb4277"
+      },
+      {
+        "name": "Jus de fruits, jus de légumes",
+        "url": "/boissons-sans-alcool/jus-de-fruits-jus-de-legumes/ca-n0704",
+        "uuid": "0618ebb4-73a4-463d-b6d4-9791573358ac"
+      },
+      {
+        "name": "Colas, boissons gazeuses, énergisantes",
+        "url": "/boissons-sans-alcool/colas-boissons-gazeuses-energisantes/ca-n0706",
+        "uuid": "0bd30d87-1c2b-4c51-9362-6230e61de6d6"
+      },
+      {
+        "name": "Thés, boissons plates aux fruits, sirops",
+        "url": "/boissons-sans-alcool/thes-boissons-plates-aux-fruits-sirops/ca-n0711",
+        "uuid": "69d1ad11-f7cf-4408-be64-105f7aeef05e"
+      },
+      {
+        "name": "Bières, vins et apéritifs sans alcool",
+        "url": "/boissons-sans-alcool/bieres-vins-et-aperitifs-sans-alcool/ca-n071401",
+        "uuid": "fc1d338f-7ff4-444a-8889-b824d1c7edbf"
+      },
+      {
+        "name": "Papier toilette, essuie-tout, mouchoir",
+        "url": "/entretien-maison/papier-toilette-essuie-tout-mouchoir/ca-n1002",
+        "uuid": "e2a8f96e-716c-4319-8419-8438d0fdd400"
+      },
+      {
+        "name": "Soin du linge",
+        "url": "/entretien-maison/soin-du-linge/ca-n1003",
+        "uuid": "902fff3c-3328-4ad1-9dce-395b72676a1d"
+      },
+      {
+        "name": "Vaisselle, entretien lave vaisselle",
+        "url": "/entretien-maison/vaisselle-entretien-lave-vaisselle/ca-n1005",
+        "uuid": "4a398f8c-5cce-482f-b201-da86be1c2116"
+      },
+      {
+        "name": "Produits d'entretien",
+        "url": "/entretien-maison/produits-d-entretien/ca-n1004",
+        "uuid": "29584d13-6125-422b-9e5e-07915575fd16"
+      },
+      {
+        "name": "Accessoires ménagers, maison",
+        "url": "/entretien-maison/accessoires-menagers-maison/ca-n1011",
+        "uuid": "ce80ab9a-ada8-499e-8691-e13cb9517957"
+      },
+      {
+        "name": "Produits du monde et de nos régions",
+        "url": "/produits-de-nos-regions-et-du-monde/ca-b08",
+        "uuid": "17a8529c-c3a3-4909-ace5-816301e8956a"
+      },
+      {
+        "name": "Electroménager, cuisine",
+        "url": "/electromenager-cuisine/ca-201612151000",
+        "uuid": "e39b4911-8ff5-4581-be6a-1a8605ba100c"
+      },
+      {
+        "name": "Meuble, déco, linge de maison",
+        "url": "/meuble-deco-linge-de-maison/ca-302202115",
+        "uuid": "aebff1e9-5940-4ad8-a8a4-b53cafe7a43d"
+      },
+      {
+        "name": "Mode, bijoux, bagagerie",
+        "url": "/mode-bijoux-bagagerie/ca-31032021153703",
+        "uuid": "5cf397e6-1bc6-4db8-8147-e3078ac5de85"
+      },
+      {
+        "name": "Boucherie, volaille, poisson bio et label",
+        "url": "/boucherie-volaille-poissonnerie/boucherie-volaille-poisson-bio-et-label/ca-n0207",
+        "uuid": "751d9be1-e576-4a44-95fd-d12a2bb746a3"
+      },
+      {
+        "name": "Volaille, lapin",
+        "url": "/boucherie-volaille-poissonnerie/volaille-lapin/ca-n0202",
+        "uuid": "5a4cfce6-29c7-46e8-a56b-7ff9dc2ec1e6"
+      },
+      {
+        "name": "Boucherie",
+        "url": "/boucherie-volaille-poissonnerie/boucherie/ca-n0201",
+        "uuid": "99429dc7-b9f9-4340-b041-16fc3ddc5832"
+      },
+      {
+        "name": "Poissons, crustacés",
+        "url": "/boucherie-volaille-poissonnerie/poissons-crustaces/ca-n0203",
+        "uuid": "f9665279-2add-4079-82bd-6feb178d281b"
+      },
+      {
+        "name": "Traiteur de la mer",
+        "url": "/boucherie-volaille-poissonnerie/traiteur-de-la-mer/ca-n0204",
+        "uuid": "421e75b5-5d3f-46a3-8a2a-86640f34cc40"
+      },
+      {
+        "name": "Charcuterie",
+        "url": "/charcuterie-traiteur-pain/charcuterie/ca-n1201",
+        "uuid": "76739334-b8c0-4be6-9269-84c38bbbe240"
+      },
+      {
+        "name": "Traiteur",
+        "url": "/charcuterie-traiteur-pain/traiteur/ca-n1202",
+        "uuid": "d943032e-12f9-4bbb-ad88-bc53505a3a5a"
+      },
+      {
+        "name": "Snacking, salade, plats cuisinés",
+        "url": "/charcuterie-traiteur-pain/snacking-salade-plats-cuisines/ca-n1204",
+        "uuid": "851319c5-c81b-484a-935c-ec6772754ca0"
+      },
+      {
+        "name": "Traiteur végétal",
+        "url": "/charcuterie-traiteur-pain/traiteur-vegetal/ca-n120201",
+        "uuid": "ea7dd97a-25d7-4d7a-aaed-b9042f35808d"
+      },
+      {
+        "name": "Pain, pâtisserie",
+        "url": "/charcuterie-traiteur-pain/pain-patisserie/ca-n1203",
+        "uuid": "129b4830-6d30-4024-a985-f57b63017ba7"
+      },
+      {
+        "name": "Bio et écologique",
+        "url": "/bio-et-ecolo/ca-b01",
+        "uuid": "e0e799e8-964c-47cd-baff-1a6713ec595d"
+      },
+      {
+        "name": "Rentrée des classes",
+        "url": "/rentree-des-classes/ca-8703805",
+        "uuid": "6ec5d547-090e-4627-9bc5-5824b9ab4af3"
+      },
+      {
+        "name": "High-tech, Audio, TV, téléphonie",
+        "url": "/high-tech-audio-tv-telephonie/ca-29032021170201",
+        "uuid": "9b7fb434-327f-485a-a382-032e78d3b7d7"
+      },
+      {
+        "name": "Végétarien, vegan",
+        "url": "/regimes-alimentaires-et-nutrition/vegetarien-vegetal/ca-b0201",
+        "uuid": "932ffe5b-d97d-4516-b31f-355ccd9022ca"
+      },
+      {
+        "name": "Régimes alimentaires spécifiques",
+        "url": "/regimes-alimentaires-et-nutrition/regimes-alimentaires-specifiques/ca-b0202",
+        "uuid": "9fde1da3-bb81-4630-9e5a-a53f5a2e310a"
+      },
+      {
+        "name": "Bien-être, minceur, compléments alimentaires",
+        "url": "/regimes-alimentaires-et-nutrition/bien-etre-minceur-complements-alimentaires/ca-b0203",
+        "uuid": "171a8ebb-c6dd-49fa-bb1a-bf80f8009594"
+      },
+      {
+        "name": "Fruits, légumes bio",
+        "url": "/fruits-legumes/fruits-legumes-bio/ca-n0307",
+        "uuid": "011b0a05-f9df-44d1-ab40-e90a8c65f0e7"
+      },
+      {
+        "name": "Fruits",
+        "url": "/fruits-legumes/fruits/ca-n0301",
+        "uuid": "d46a7491-c4ff-4a5e-a79d-7f1ec06ce7e0"
+      },
+      {
+        "name": "Légumes",
+        "url": "/fruits-legumes/legumes/ca-n0302",
+        "uuid": "81da9367-dbc9-40c7-b5d7-47b4f36cfbcb"
+      },
+      {
+        "name": "Fruits, légumes prêts à consommer",
+        "url": "/fruits-legumes/fruits-legumes-pret-a-consommer/ca-n0304",
+        "uuid": "07c6676e-988f-40cc-9340-2f6d5e3707a7"
+      },
+      {
+        "name": "Jus de fruits frais, gazpacho",
+        "url": "/fruits-legumes/jus-de-fruits-frais-gazpacho/ca-n0305",
+        "uuid": "fb540b59-0c70-4a77-9f2d-302eb9146f95"
+      },
+      {
+        "name": "Jardin, auto, brico",
+        "url": "/jardin-auto-brico/ca-2903202116100",
+        "uuid": "25915ccd-c660-48f8-83c9-456471c1d13f"
+      },
+      {
+        "name": "Surgelés",
+        "url": "/surgeles/ca-n04",
+        "uuid": "aa85cedd-4ab8-440c-8252-0b1bf126ce53"
+      },
+      {
+        "name": "Jouets, jeux vidéo, livres",
+        "url": "/jouets-jeux-video-loisirs/ca-101042021",
+        "uuid": "2722be01-2393-43db-a5aa-a117c83a483b"
+      }
+    ]
+  ]
+}
