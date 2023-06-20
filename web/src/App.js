@@ -100,7 +100,7 @@ function App() {
 
         if (res.status === 200) {
           var res = await res.json()
-          if (productPage == 1) {
+          if (brandPage == 1) {
             document.getElementById("BrandsTag").innerText = `Brands (${res.data.total.brands})`
           }
           brandPage++;
@@ -125,7 +125,7 @@ function App() {
 
         if (res.status === 200) {
           var res = await res.json()
-          if (productPage == 1) {
+          if (categoryPage == 1) {
             document.getElementById("CategoriesTag").innerText = `Categories (${res.data.total.categories})`
           }
           categoryPage++;
