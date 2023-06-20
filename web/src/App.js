@@ -74,9 +74,11 @@ function App() {
         })
 
         if (res.status === 200) {
-          productPage++;
           var res = await res.json()
-          document.getElementById("ProductsTag").innerText = `Products (${res.data.total.products})`
+          if (productPage == 1) {
+            document.getElementById("ProductsTag").innerText = `Products (${res.data.total.products})`
+          }
+          productPage++;
           return res;
         }
       }
@@ -97,9 +99,11 @@ function App() {
         })
 
         if (res.status === 200) {
-          brandPage++;
           var res = await res.json()
-          document.getElementById("BrandsTag").innerText = `Brands (${res.data.total.brands})`
+          if (productPage == 1) {
+            document.getElementById("BrandsTag").innerText = `Brands (${res.data.total.brands})`
+          }
+          brandPage++;
           return res;
         }
       }
@@ -120,9 +124,11 @@ function App() {
         })
 
         if (res.status === 200) {
-          categoryPage++;
           var res = await res.json()
-          document.getElementById("CategoriesTag").innerText = `Categories (${res.data.total.categories})`
+          if (productPage == 1) {
+            document.getElementById("CategoriesTag").innerText = `Categories (${res.data.total.categories})`
+          }
+          categoryPage++;
           return res;
         }
       }
@@ -149,225 +155,236 @@ function App() {
 
           var query = document.getElementById("search").value;
 
-          var productData = await getProductsData(query, productPage);
-          productData = productData.data;
+          if (query.length > 0) {
+            var productData = await getProductsData(query, productPage);
+            productData = productData.data;
 
-          var brandData = await getBrandsData(query, brandPage);
-          brandData = brandData.data;
+            var brandData = await getBrandsData(query, brandPage);
+            brandData = brandData.data;
 
-          var categoryData = await getCategoriesData(query, categoryPage);
-          categoryData = categoryData.data;
+            var categoryData = await getCategoriesData(query, categoryPage);
+            categoryData = categoryData.data;
 
-          if (productData.products.length > 0) {
-            productData.products.forEach((product) => {
-              products.push(
-                <Card
-                  app={{
-                    address: "",
-                    display: false,
-                    displayName: "",
-                    icon: product.image,
-                    isExternal: false,
-                    name: null,
-                    scope: [],
-                  }}
-                  creatorName={`${product.brand} | ${product.category}`}
-                  name={product.name}
-                  onOpen={function ro() { }}
-                  onSelect={function ro() { }}
-                  updatedAt={product.price + "€"}
-                  userSrc="https://i.pravatar.cc/300"
-                />
-              );
+            if (productData.products.length > 0) {
+              productData.products.forEach((product) => {
+                products.push(
+                  <Card
+                    app={{
+                      address: "",
+                      display: false,
+                      displayName: "",
+                      icon: product.image,
+                      isExternal: false,
+                      name: null,
+                      scope: [],
+                    }}
+                    creatorName={`${product.brand} | ${product.category}`}
+                    name={product.name}
+                    onOpen={function ro() { }}
+                    onSelect={function ro() { }}
+                    updatedAt={product.price + "€"}
+                    userSrc="https://i.pravatar.cc/300"
+                  />
+                );
+              });
+              createRoot(document.getElementById("Results-Products")).render(products);
+              document.getElementById("Results-Products").style.opacity = "1";
+              document.getElementById("Results-Products").style.overflowY = "scroll";
+            } else {
+              createRoot(document.getElementById("Results-Products")).render(emptyScreen);
+              document.getElementById("Results-Products").style.opacity = "1";
+              document.getElementById("Results-Products").style.overflowY = "scroll";
+            }
+            document.getElementById('Results-Products').addEventListener('scroll', async function () {
+              if (document.getElementById('Results-Products').scrollTop + document.getElementById('Results-Products').clientHeight >= document.getElementById('Results-Products').scrollHeight) {
+                if (!productMax) {
+                  productData = await getProductsData(query, productPage, productMax);
+                  productData = productData.data;
+                  if (productData.products.length > 0) {
+                    productData.products.forEach((product) => {
+                      products.push(
+                        <Card
+                          app={{
+                            address: "",
+                            display: false,
+                            displayName: "",
+                            icon: product.image,
+                            isExternal: false,
+                            name: null,
+                            scope: [],
+                          }}
+                          creatorName={`${product.brand} | ${product.category}`}
+                          name={product.name}
+                          onOpen={function ro() { }}
+                          onSelect={function ro() { }}
+                          updatedAt={product.price + "€"}
+                          userSrc="https://i.pravatar.cc/300"
+                        />
+                      );
+                    });
+                    createRoot(document.getElementById("Results-Products")).render(products);
+                    document.getElementById("Results-Products").style.opacity = "1";
+                    document.getElementById("Results-Products").style.overflowY = "scroll";
+                  } else {
+                    document.getElementById("Results-Products").style.opacity = "1";
+                    document.getElementById("Results-Products").style.overflowY = "scroll";
+
+                    productMax = true;
+                  }
+                }
+              }
             });
-            createRoot(document.getElementById("Results-Products")).render(products);
-            document.getElementById("Results-Products").style.opacity = "1";
-            document.getElementById("Results-Products").style.overflowY = "scroll";
+
+            if (brandData.brands.length > 0) {
+              brandData.brands.forEach((brand) => {
+                brands.push(
+                  <Card
+                    app={{
+                      address: "",
+                      display: false,
+                      displayName: "",
+                      icon: brand.image,
+                      isExternal: false,
+                      name: null,
+                      scope: [],
+                    }}
+                    creatorName={`${brand.brand} | ${brand.category}`}
+                    name={brand.name}
+                    onOpen={function ro() { }}
+                    onSelect={function ro() { }}
+                    updatedAt={brand.price + "€"}
+                    userSrc="https://i.pravatar.cc/300"
+                  />
+                );
+              });
+              createRoot(document.getElementById("Results-Brands")).render(brands);
+              document.getElementById("Results-Brands").style.opacity = "1";
+              document.getElementById("Results-Brands").style.overflowY = "scroll";
+            } else {
+              createRoot(document.getElementById("Results-Brands")).render(emptyScreen);
+              document.getElementById("Results-Brands").style.opacity = "1";
+              document.getElementById("Results-Brands").style.overflowY = "scroll";
+            }
+            document.getElementById('Results-Brands').addEventListener('scroll', async function () {
+              if (document.getElementById('Results-Brands').scrollTop + document.getElementById('Results-Brands').clientHeight >= document.getElementById('Results-Brands').scrollHeight) {
+                if (!brandMax) {
+                  brandData = await getBrandsData(query, brandPage, brandMax);
+                  brandData = brandData.data;
+                  if (brandData.brands.length > 0) {
+                    brandData.brands.forEach((brand) => {
+                      brands.push(
+                        <Card
+                          app={{
+                            address: "",
+                            display: false,
+                            displayName: "",
+                            icon: brand.image,
+                            isExternal: false,
+                            name: null,
+                            scope: [],
+                          }}
+                          creatorName={`${brand.brand} | ${brand.category}`}
+                          name={brand.name}
+                          onOpen={function ro() { }}
+                          onSelect={function ro() { }}
+                          updatedAt={brand.price + "€"}
+                          userSrc="https://i.pravatar.cc/300"
+                        />
+                      );
+                    });
+                    createRoot(document.getElementById("Results-Brands")).render(brands);
+                    document.getElementById("Results-Brands").style.opacity = "1";
+                    document.getElementById("Results-Brands").style.overflowY = "scroll";
+                  } else {
+                    document.getElementById("Results-Brands").style.opacity = "1";
+                    document.getElementById("Results-Brands").style.overflowY = "scroll";
+
+                    brandMax = true;
+                  }
+                }
+              }
+            });
+
+            if (categoryData.categories.length > 0) {
+              categoryData.categories.forEach((category) => {
+                categories.push(
+                  <Card
+                    app={{
+                      address: "",
+                      display: false,
+                      displayName: "",
+                      icon: category.image,
+                      isExternal: false,
+                      name: null,
+                      scope: [],
+                    }}
+                    creatorName={`${category.brand} | ${category.category}`}
+                    name={category.name}
+                    onOpen={function ro() { }}
+                    onSelect={function ro() { }}
+                    updatedAt={category.price + "€"}
+                    userSrc="https://i.pravatar.cc/300"
+                  />
+                );
+              });
+              createRoot(document.getElementById("Results-Categories")).render(categories);
+              document.getElementById("Results-Categories").style.opacity = "1";
+              document.getElementById("Results-Categories").style.overflowY = "scroll";
+            } else {
+              createRoot(document.getElementById("Results-Categories")).render(emptyScreen);
+              document.getElementById("Results-Categories").style.opacity = "1";
+              document.getElementById("Results-Categories").style.overflowY = "scroll";
+            }
+
+            document.getElementById('Results-Categories').addEventListener('scroll', async function () {
+              if (document.getElementById('Results-Categories').scrollTop + document.getElementById('Results-Categories').clientHeight >= document.getElementById('Results-Categories').scrollHeight) {
+                if (!categoryMax) {
+                  categoryData = await getCategoriesData(query, categoryPage, categoryMax);
+                  categoryData = categoryData.data;
+                  if (categoryData.categories.length > 0) {
+                    categoryData.categories.forEach((category) => {
+                      categories.push(
+                        <Card
+                          app={{
+                            address: "",
+                            display: false,
+                            displayName: "",
+                            icon: category.image,
+                            isExternal: false,
+                            name: null,
+                            scope: [],
+                          }}
+                          creatorName={`${category.brand} | ${category.category}`}
+                          name={category.name}
+                          onOpen={function ro() { }}
+                          onSelect={function ro() { }}
+                          updatedAt={category.price + "€"}
+                          userSrc="https://i.pravatar.cc/300"
+                        />
+                      );
+                    });
+                    createRoot(document.getElementById("Results-Categories")).render(categories);
+                    document.getElementById("Results-Categories").style.opacity = "1";
+                    document.getElementById("Results-Categories").style.overflowY = "scroll";
+                  } else {
+                    document.getElementById("Results-Categories").style.opacity = "1";
+                    document.getElementById("Results-Categories").style.overflowY = "scroll";
+
+                    categoryMax = true;
+                  }
+                }
+              }
+            });
           } else {
             createRoot(document.getElementById("Results-Products")).render(emptyScreen);
-            document.getElementById("Results-Products").style.opacity = "1";
-            document.getElementById("Results-Products").style.overflowY = "scroll";
-          }
-          document.getElementById('Results-Products').addEventListener('scroll', async function () {
-            if (document.getElementById('Results-Products').scrollTop + document.getElementById('Results-Products').clientHeight >= document.getElementById('Results-Products').scrollHeight) {
-              if (!productMax) {
-                productData = await getProductsData(query, productPage, productMax);
-                productData = productData.data;
-                if (productData.products.length > 0) {
-                  productData.products.forEach((product) => {
-                    products.push(
-                      <Card
-                        app={{
-                          address: "",
-                          display: false,
-                          displayName: "",
-                          icon: product.image,
-                          isExternal: false,
-                          name: null,
-                          scope: [],
-                        }}
-                        creatorName={`${product.brand} | ${product.category}`}
-                        name={product.name}
-                        onOpen={function ro() { }}
-                        onSelect={function ro() { }}
-                        updatedAt={product.price + "€"}
-                        userSrc="https://i.pravatar.cc/300"
-                      />
-                    );
-                  });
-                  createRoot(document.getElementById("Results-Products")).render(products);
-                  document.getElementById("Results-Products").style.opacity = "1";
-                  document.getElementById("Results-Products").style.overflowY = "scroll";
-                } else {
-                  document.getElementById("Results-Products").style.opacity = "1";
-                  document.getElementById("Results-Products").style.overflowY = "scroll";
-
-                  productMax = true;
-                }
-              }
-            }
-          });
-
-          if (brandData.brands.length > 0) {
-            brandData.brands.forEach((brand) => {
-              brands.push(
-                <Card
-                  app={{
-                    address: "",
-                    display: false,
-                    displayName: "",
-                    icon: brand.image,
-                    isExternal: false,
-                    name: null,
-                    scope: [],
-                  }}
-                  creatorName={`${brand.brand} | ${brand.category}`}
-                  name={brand.name}
-                  onOpen={function ro() { }}
-                  onSelect={function ro() { }}
-                  updatedAt={brand.price + "€"}
-                  userSrc="https://i.pravatar.cc/300"
-                />
-              );
-            });
-            createRoot(document.getElementById("Results-Brands")).render(brands);
-            document.getElementById("Results-Brands").style.opacity = "1";
-            document.getElementById("Results-Brands").style.overflowY = "scroll";
-          } else {
             createRoot(document.getElementById("Results-Brands")).render(emptyScreen);
-            document.getElementById("Results-Brands").style.opacity = "1";
-            document.getElementById("Results-Brands").style.overflowY = "scroll";
-          }
-          document.getElementById('Results-Brands').addEventListener('scroll', async function () {
-            if (document.getElementById('Results-Brands').scrollTop + document.getElementById('Results-Brands').clientHeight >= document.getElementById('Results-Brands').scrollHeight) {
-              if (!brandMax) {
-                brandData = await getBrandsData(query, brandPage, brandMax);
-                brandData = brandData.data;
-                if (brandData.brands.length > 0) {
-                  brandData.brands.forEach((brand) => {
-                    brands.push(
-                      <Card
-                        app={{
-                          address: "",
-                          display: false,
-                          displayName: "",
-                          icon: brand.image,
-                          isExternal: false,
-                          name: null,
-                          scope: [],
-                        }}
-                        creatorName={`${brand.brand} | ${brand.category}`}
-                        name={brand.name}
-                        onOpen={function ro() { }}
-                        onSelect={function ro() { }}
-                        updatedAt={brand.price + "€"}
-                        userSrc="https://i.pravatar.cc/300"
-                      />
-                    );
-                  });
-                  createRoot(document.getElementById("Results-Brands")).render(brands);
-                  document.getElementById("Results-Brands").style.opacity = "1";
-                  document.getElementById("Results-Brands").style.overflowY = "scroll";
-                } else {
-                  document.getElementById("Results-Brands").style.opacity = "1";
-                  document.getElementById("Results-Brands").style.overflowY = "scroll";
-
-                  brandMax = true;
-                }
-              }
-            }
-          });
-
-          if (categoryData.categories.length > 0) {
-            categoryData.categories.forEach((category) => {
-              categories.push(
-                <Card
-                  app={{
-                    address: "",
-                    display: false,
-                    displayName: "",
-                    icon: category.image,
-                    isExternal: false,
-                    name: null,
-                    scope: [],
-                  }}
-                  creatorName={`${category.brand} | ${category.category}`}
-                  name={category.name}
-                  onOpen={function ro() { }}
-                  onSelect={function ro() { }}
-                  updatedAt={category.price + "€"}
-                  userSrc="https://i.pravatar.cc/300"
-                />
-              );
-            });
-            createRoot(document.getElementById("Results-Categories")).render(categories);
-            document.getElementById("Results-Categories").style.opacity = "1";
-            document.getElementById("Results-Categories").style.overflowY = "scroll";
-          } else {
             createRoot(document.getElementById("Results-Categories")).render(emptyScreen);
-            document.getElementById("Results-Categories").style.opacity = "1";
-            document.getElementById("Results-Categories").style.overflowY = "scroll";
+
+            document.getElementById("ProductsTag").innerText = "Products";
+            document.getElementById("BrandsTag").innerText = "Brands";
+            document.getElementById("CategoriesTag").innerText = "Categories";
+            
           }
-
-          document.getElementById('Results-Categories').addEventListener('scroll', async function () {
-            if (document.getElementById('Results-Categories').scrollTop + document.getElementById('Results-Categories').clientHeight >= document.getElementById('Results-Categories').scrollHeight) {
-              if (!categoryMax) {
-                categoryData = await getCategoriesData(query, categoryPage, categoryMax);
-                categoryData = categoryData.data;
-                if (categoryData.categories.length > 0) {
-                  categoryData.categories.forEach((category) => {
-                    categories.push(
-                      <Card
-                        app={{
-                          address: "",
-                          display: false,
-                          displayName: "",
-                          icon: category.image,
-                          isExternal: false,
-                          name: null,
-                          scope: [],
-                        }}
-                        creatorName={`${category.brand} | ${category.category}`}
-                        name={category.name}
-                        onOpen={function ro() { }}
-                        onSelect={function ro() { }}
-                        updatedAt={category.price + "€"}
-                        userSrc="https://i.pravatar.cc/300"
-                      />
-                    );
-                  });
-                  createRoot(document.getElementById("Results-Categories")).render(categories);
-                  document.getElementById("Results-Categories").style.opacity = "1";
-                  document.getElementById("Results-Categories").style.overflowY = "scroll";
-                } else {
-                  document.getElementById("Results-Categories").style.opacity = "1";
-                  document.getElementById("Results-Categories").style.overflowY = "scroll";
-
-                  categoryMax = true;
-                }
-              }
-            }
-          });
 
         }, 1000);
       });
@@ -382,6 +399,7 @@ function App() {
             size="md"
             type="text"
             id="search"
+            autoComplete='off'
           />
         </FormControl>
         <div className="Results">

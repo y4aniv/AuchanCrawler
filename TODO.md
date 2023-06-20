@@ -1,4 +1,3 @@
-- Définir le nombre de résultat par catégories
 - Mettre un cursuer différent lors du chargement
 - Mettre un margin bottom sur la dernière catégorie
 - Mettre en marque Unknow si undefined
