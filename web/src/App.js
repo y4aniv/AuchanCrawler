@@ -64,6 +64,7 @@ function App() {
       async function getProductsData(req, page) {
         document.getElementById("Results-Products").style.opacity = "0.5";
         document.getElementById("Results-Products").style.overflowY = "hidden";
+        document.getElementById("Results-Products").style.cursor = "wait";
 
 
         var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
@@ -90,6 +91,7 @@ function App() {
       async function getBrandsData(req, page) {
         document.getElementById("Results-Brands").style.opacity = "0.5";
         document.getElementById("Results-Brands").style.overflowY = "hidden";
+        document.getElementById("Results-Brands").style.cursor = "wait";
 
         var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
           method: "GET",
@@ -115,6 +117,7 @@ function App() {
       async function getCategoriesData(req, page) {
         document.getElementById("Results-Categories").style.opacity = "0.5";
         document.getElementById("Results-Categories").style.overflowY = "hidden";
+        document.getElementById("Results-Categories").style.cursor = "wait";
 
         var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
           method: "GET",
@@ -190,10 +193,12 @@ function App() {
               createRoot(document.getElementById("Results-Products")).render(products);
               document.getElementById("Results-Products").style.opacity = "1";
               document.getElementById("Results-Products").style.overflowY = "scroll";
+              document.getElementById("Results-Products").style.cursor = "default";
             } else {
               createRoot(document.getElementById("Results-Products")).render(emptyScreen);
               document.getElementById("Results-Products").style.opacity = "1";
               document.getElementById("Results-Products").style.overflowY = "scroll";
+              document.getElementById("Results-Products").style.cursor = "default";
             }
             document.getElementById('Results-Products').addEventListener('scroll', async function () {
               if (document.getElementById('Results-Products').scrollTop + document.getElementById('Results-Products').clientHeight >= document.getElementById('Results-Products').scrollHeight) {
@@ -225,9 +230,11 @@ function App() {
                     createRoot(document.getElementById("Results-Products")).render(products);
                     document.getElementById("Results-Products").style.opacity = "1";
                     document.getElementById("Results-Products").style.overflowY = "scroll";
+                    document.getElementById("Results-Products").style.cursor = "default";
                   } else {
                     document.getElementById("Results-Products").style.opacity = "1";
                     document.getElementById("Results-Products").style.overflowY = "scroll";
+                    document.getElementById("Results-Products").style.cursor = "default";
 
                     productMax = true;
                   }
@@ -260,10 +267,12 @@ function App() {
               createRoot(document.getElementById("Results-Brands")).render(brands);
               document.getElementById("Results-Brands").style.opacity = "1";
               document.getElementById("Results-Brands").style.overflowY = "scroll";
+              document.getElementById("Results-Brands").style.cursor = "default";
             } else {
               createRoot(document.getElementById("Results-Brands")).render(emptyScreen);
               document.getElementById("Results-Brands").style.opacity = "1";
               document.getElementById("Results-Brands").style.overflowY = "scroll";
+              document.getElementById("Results-Brands").style.cursor = "default";
             }
             document.getElementById('Results-Brands').addEventListener('scroll', async function () {
               if (document.getElementById('Results-Brands').scrollTop + document.getElementById('Results-Brands').clientHeight >= document.getElementById('Results-Brands').scrollHeight) {
@@ -295,9 +304,11 @@ function App() {
                     createRoot(document.getElementById("Results-Brands")).render(brands);
                     document.getElementById("Results-Brands").style.opacity = "1";
                     document.getElementById("Results-Brands").style.overflowY = "scroll";
+                    document.getElementById("Results-Brands").style.cursor = "default";
                   } else {
                     document.getElementById("Results-Brands").style.opacity = "1";
                     document.getElementById("Results-Brands").style.overflowY = "scroll";
+                    document.getElementById("Results-Brands").style.cursor = "default";
 
                     brandMax = true;
                   }
@@ -330,10 +341,12 @@ function App() {
               createRoot(document.getElementById("Results-Categories")).render(categories);
               document.getElementById("Results-Categories").style.opacity = "1";
               document.getElementById("Results-Categories").style.overflowY = "scroll";
+              document.getElementById("Results-Categories").style.cursor = "default";
             } else {
               createRoot(document.getElementById("Results-Categories")).render(emptyScreen);
               document.getElementById("Results-Categories").style.opacity = "1";
               document.getElementById("Results-Categories").style.overflowY = "scroll";
+              document.getElementById("Results-Categories").style.cursor = "default";
             }
 
             document.getElementById('Results-Categories').addEventListener('scroll', async function () {
@@ -366,9 +379,11 @@ function App() {
                     createRoot(document.getElementById("Results-Categories")).render(categories);
                     document.getElementById("Results-Categories").style.opacity = "1";
                     document.getElementById("Results-Categories").style.overflowY = "scroll";
+                    document.getElementById("Results-Categories").style.cursor = "default";
                   } else {
                     document.getElementById("Results-Categories").style.opacity = "1";
                     document.getElementById("Results-Categories").style.overflowY = "scroll";
+                    document.getElementById("Results-Categories").style.cursor = "default";
 
                     categoryMax = true;
                   }
