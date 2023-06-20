@@ -88,3 +88,6 @@ h3 {
   position: relative;
   transform: translateY(-50%);
 }
+#Results-Categories {
+  margin-bottom: 70px;
+}
