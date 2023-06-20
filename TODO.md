@@ -4,3 +4,4 @@
 - Mettre en marque Unknow si undefined
 - Underline les termes recherché 
 - Mettre un rafraichissement WS pour savoir quand le serveur se déconnecte
+- Faire une DOC

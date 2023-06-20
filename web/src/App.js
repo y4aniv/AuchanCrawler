@@ -75,7 +75,9 @@ function App() {
 
         if (res.status === 200) {
           productPage++;
-          return await res.json();
+          var res = await res.json()
+          document.getElementById("ProductsTag").innerText = `Products (${res.data.total.products})`
+          return res;
         }
       }
 
@@ -96,7 +98,9 @@ function App() {
 
         if (res.status === 200) {
           brandPage++;
-          return await res.json();
+          var res = await res.json()
+          document.getElementById("BrandsTag").innerText = `Brands (${res.data.total.brands})`
+          return res;
         }
       }
 
@@ -117,7 +121,9 @@ function App() {
 
         if (res.status === 200) {
           categoryPage++;
-          return await res.json();
+          var res = await res.json()
+          document.getElementById("CategoriesTag").innerText = `Categories (${res.data.total.categories})`
+          return res;
         }
       }
 
@@ -379,15 +385,15 @@ function App() {
           />
         </FormControl>
         <div className="Results">
-          <h3>Products</h3>
+          <h3 id="ProductsTag">Products</h3>
           <div id="Results-Products">
             {emptyScreen}
           </div>
-          <h3>Brands</h3>
+          <h3 id="BrandsTag">Brands</h3>
           <div id="Results-Brands">
             {emptyScreen}
           </div>
-          <h3>Categories</h3>
+          <h3 id="CategoriesTag">Categories</h3>
           <div id="Results-Categories">
             {emptyScreen}
           </div>
