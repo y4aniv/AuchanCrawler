@@ -170,6 +170,11 @@ function App() {
 
             if (productData.products.length > 0) {
               productData.products.forEach((product) => {
+
+                if(product.brand == ""){
+                  product.brand = "Unknown"
+                }
+
                 products.push(
                   <Card
                     app={{
@@ -207,6 +212,11 @@ function App() {
                   productData = productData.data;
                   if (productData.products.length > 0) {
                     productData.products.forEach((product) => {
+
+                      if(product.brand == ""){
+                        product.brand = "Unknown"
+                      }
+
                       products.push(
                         <Card
                           app={{
@@ -244,6 +254,11 @@ function App() {
 
             if (brandData.brands.length > 0) {
               brandData.brands.forEach((brand) => {
+
+                if(brand.brand == ""){
+                  brand.brand = "Unknown"
+                }
+
                 brands.push(
                   <Card
                     app={{
@@ -281,6 +296,11 @@ function App() {
                   brandData = brandData.data;
                   if (brandData.brands.length > 0) {
                     brandData.brands.forEach((brand) => {
+
+                      if(brand.brand == ""){
+                        brand.brand = "Unknown"
+                      }
+
                       brands.push(
                         <Card
                           app={{
@@ -318,6 +338,11 @@ function App() {
 
             if (categoryData.categories.length > 0) {
               categoryData.categories.forEach((category) => {
+
+                if(category.brand == ""){
+                  category.brand = "Unknown"
+                }
+
                 categories.push(
                   <Card
                     app={{
@@ -356,6 +381,11 @@ function App() {
                   categoryData = categoryData.data;
                   if (categoryData.categories.length > 0) {
                     categoryData.categories.forEach((category) => {
+
+                      if(category.brand == ""){
+                        category.brand = "Unknown"
+                      }
+
                       categories.push(
                         <Card
                           app={{
