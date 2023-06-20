@@ -1,7 +1,8 @@
 import './App.css';
 import "./ode-bootstrap-neo.css";
-import { Button, Input, FormControl } from "@ode-react-ui/components";
+import { Button, Input, FormControl, Card } from "@ode-react-ui/components";
 import { useEffect } from 'react';
+import { createRoot } from 'react-dom/client';
 
 function App() {
   if (localStorage.getItem("localtunnel") === null) {
@@ -50,8 +51,9 @@ function App() {
       </div>
     )
   } else {
+
     useEffect(() => {
-      setInterval(()=>{
+      setInterval(() => {
         fetch(localStorage.getItem("localtunnel") + "/auchancrawler", {
           headers: {
             "Bypass-Tunnel-Reminder": "true"
@@ -74,7 +76,7 @@ function App() {
         })
       }, 1000)
 
-      document.getElementById("search").addEventListener("keyup", (e) => {  
+      document.getElementById("search").addEventListener("keyup", (e) => {
         if (e.target.value != "") {
           fetch(`${localStorage.getItem("localtunnel")}/search?q=${e.target.value}&page=1`, {
             headers: {
@@ -86,13 +88,35 @@ function App() {
             })
             .then((data) => {
               document.getElementById("Results-Products").innerHTML = "";
+              var rootProducts = createRoot(document.getElementById("Results-Products"));
+              var Products = [];
               for (let p = 0; p < data.data.products.length; p++) {
-                document.getElementById("Results-Products").innerHTML += `<div class="Product"><img src="${data.data.products[p].image}" /><div class="Product-Info"><div class="Product-Name">${data.data.products[p].name}</div><div class="Product-Brand">${data.data.products[p].brand}</div><div class="Product-Price">${data.data.products[p].price}</div></div></div>`
+                Products.push(
+                  <Card
+                  app={{
+                    address: '',
+                    display: false,
+                    displayName: '',
+                    icon: data.data.products[p].image,
+                    isExternal: false,
+                    name: 'Product',
+                    scope: []
+                  }}
+                  creatorName={`${data.data.products[p].brand} | ${data.data.products[p].category}`}
+                  name={data.data.products[p].name}
+                  onOpen={function ro(){}}
+                  onSelect={function ro(){}}
+                  updatedAt={data.data.products[p].price + "€"}
+                  userSrc="&quot;&quot;"
+                />
+                )
               }
+              rootProducts.render(Products)
             })
         }
       })
     })
+
     return (
       <div className="App">
         <FormControl className="App-SearchForm">

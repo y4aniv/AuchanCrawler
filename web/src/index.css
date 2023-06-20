@@ -47,3 +47,6 @@
   border-radius: 1.2rem;
   overflow-y: scroll;
 }
+.avatar avatar-xs rounded-circle{
+  display: none !important;
+}

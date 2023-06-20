@@ -6,6 +6,10 @@
   "repository": "https://github.com/y4aniv/AuchanCrawler",
   "author": "Yaniv DOUIEB",
   "license": "GPL-3.0",
+  "scripts": {
+    "start": "node index.js",
+    "install": "npm install && cd ./web && npm install"
+  },
   "dependencies": {
     "ascii-table": "^0.0.9",
     "axios": "^1.4.0",
