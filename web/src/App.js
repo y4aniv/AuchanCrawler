@@ -1,6 +1,6 @@
 import './App.css';
 import "./ode-bootstrap-neo.css";
-import { Button, Input, FormControl, Card } from "@ode-react-ui/components";
+import { Button, Input, FormControl, Card, EmptyScreen } from "@ode-react-ui/components";
 import { useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 
@@ -25,6 +25,7 @@ function App() {
             }
 
             fetch(localtunnel + "/auchancrawler", {
+              method: "GET",
               headers: {
                 "Bypass-Tunnel-Reminder": "true"
               }
@@ -52,70 +53,320 @@ function App() {
     )
   } else {
 
-    useEffect(() => {
-      setInterval(() => {
-        fetch(localStorage.getItem("localtunnel") + "/auchancrawler", {
+    var emptyScreen = <EmptyScreen
+      imageSrc="/illu-notfound.svg"
+      text="No ressource have been found. Start a search or change your search terms !"
+      title="There is nothing here…"
+    />
+
+    useEffect(async () => {
+
+      async function getProductsData(req, page) {
+        document.getElementById("Results-Products").style.opacity = "0.5";
+        document.getElementById("Results-Products").style.overflowY = "hidden";
+
+
+        var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
+          method: "GET",
           headers: {
             "Bypass-Tunnel-Reminder": "true"
           }
-        }).then((res) => {
-          if (res.status === 200) {
-            return res.json();
-          } else {
-            localStorage.removeItem("localtunnel");
-            window.location.reload();
-          }
-        }).then((data) => {
-          if (data.message != "auchancrawler") {
-            localStorage.removeItem("localtunnel");
-            window.location.reload();
-          }
-        }).catch((err) => {
-          localStorage.removeItem("localtunnel");
-          window.location.reload();
         })
-      }, 1000)
 
-      document.getElementById("search").addEventListener("keyup", (e) => {
-        if (e.target.value != "") {
-          fetch(`${localStorage.getItem("localtunnel")}/search?q=${e.target.value}&page=1`, {
-            headers: {
-              "Bypass-Tunnel-Reminder": "true"
-            }
-          })
-            .then((res) => {
-              return res.json();
-            })
-            .then((data) => {
-              document.getElementById("Results-Products").innerHTML = "";
-              var rootProducts = createRoot(document.getElementById("Results-Products"));
-              var Products = [];
-              for (let p = 0; p < data.data.products.length; p++) {
-                Products.push(
-                  <Card
-                  app={{
-                    address: '',
-                    display: false,
-                    displayName: '',
-                    icon: data.data.products[p].image,
-                    isExternal: false,
-                    name: 'Product',
-                    scope: []
-                  }}
-                  creatorName={`${data.data.products[p].brand} | ${data.data.products[p].category}`}
-                  name={data.data.products[p].name}
-                  onOpen={function ro(){}}
-                  onSelect={function ro(){}}
-                  updatedAt={data.data.products[p].price + "€"}
-                  userSrc="&quot;&quot;"
-                />
-                )
-              }
-              rootProducts.render(Products)
-            })
+        if (res.status === 200) {
+          productPage++;
+          return await res.json();
         }
-      })
-    })
+      }
+
+      var productPage = 1;
+      var products = [];
+      var productMax = false
+
+      async function getBrandsData(req, page) {
+        document.getElementById("Results-Brands").style.opacity = "0.5";
+        document.getElementById("Results-Brands").style.overflowY = "hidden";
+
+        var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
+          method: "GET",
+          headers: {
+            "Bypass-Tunnel-Reminder": "true"
+          }
+        })
+
+        if (res.status === 200) {
+          brandPage++;
+          return await res.json();
+        }
+      }
+
+      var brandPage = 1;
+      var brands = [];
+      var brandMax = false;
+
+      async function getCategoriesData(req, page) {
+        document.getElementById("Results-Categories").style.opacity = "0.5";
+        document.getElementById("Results-Categories").style.overflowY = "hidden";
+
+        var res = await fetch(localStorage.getItem("localtunnel") + "/search/?q=" + req + "&page=" + page, {
+          method: "GET",
+          headers: {
+            "Bypass-Tunnel-Reminder": "true"
+          }
+        })
+
+        if (res.status === 200) {
+          categoryPage++;
+          return await res.json();
+        }
+      }
+
+      var categoryPage = 1;
+      var categories = [];
+      var categoryMax = false;
+
+      document.getElementById("search").addEventListener("keyup", async (e) => {
+        clearTimeout(window.searchTimeout);
+
+        window.searchTimeout = setTimeout(async () => {
+          productMax = false;
+          products = [];
+          productPage = 1;
+
+          brandMax = false;
+          brands = [];
+          brandPage = 1;
+
+          categoryMax = false;
+          categories = [];
+          categoryPage = 1;
+
+          var query = document.getElementById("search").value;
+
+          var productData = await getProductsData(query, productPage);
+          productData = productData.data;
+
+          var brandData = await getBrandsData(query, brandPage);
+          brandData = brandData.data;
+
+          var categoryData = await getCategoriesData(query, categoryPage);
+          categoryData = categoryData.data;
+
+          if (productData.products.length > 0) {
+            productData.products.forEach((product) => {
+              products.push(
+                <Card
+                  app={{
+                    address: "",
+                    display: false,
+                    displayName: "",
+                    icon: product.image,
+                    isExternal: false,
+                    name: null,
+                    scope: [],
+                  }}
+                  creatorName={`${product.brand} | ${product.category}`}
+                  name={product.name}
+                  onOpen={function ro() { }}
+                  onSelect={function ro() { }}
+                  updatedAt={product.price + "€"}
+                  userSrc="https://i.pravatar.cc/300"
+                />
+              );
+            });
+            createRoot(document.getElementById("Results-Products")).render(products);
+            document.getElementById("Results-Products").style.opacity = "1";
+            document.getElementById("Results-Products").style.overflowY = "scroll";
+          } else {
+            createRoot(document.getElementById("Results-Products")).render(emptyScreen);
+            document.getElementById("Results-Products").style.opacity = "1";
+            document.getElementById("Results-Products").style.overflowY = "scroll";
+          }
+          document.getElementById('Results-Products').addEventListener('scroll', async function () {
+            if (document.getElementById('Results-Products').scrollTop + document.getElementById('Results-Products').clientHeight >= document.getElementById('Results-Products').scrollHeight) {
+              if (!productMax) {
+                productData = await getProductsData(query, productPage, productMax);
+                productData = productData.data;
+                if (productData.products.length > 0) {
+                  productData.products.forEach((product) => {
+                    products.push(
+                      <Card
+                        app={{
+                          address: "",
+                          display: false,
+                          displayName: "",
+                          icon: product.image,
+                          isExternal: false,
+                          name: null,
+                          scope: [],
+                        }}
+                        creatorName={`${product.brand} | ${product.category}`}
+                        name={product.name}
+                        onOpen={function ro() { }}
+                        onSelect={function ro() { }}
+                        updatedAt={product.price + "€"}
+                        userSrc="https://i.pravatar.cc/300"
+                      />
+                    );
+                  });
+                  createRoot(document.getElementById("Results-Products")).render(products);
+                  document.getElementById("Results-Products").style.opacity = "1";
+                  document.getElementById("Results-Products").style.overflowY = "scroll";
+                } else {
+                  document.getElementById("Results-Products").style.opacity = "1";
+                  document.getElementById("Results-Products").style.overflowY = "scroll";
+
+                  productMax = true;
+                }
+              }
+            }
+          });
+
+          if (brandData.brands.length > 0) {
+            brandData.brands.forEach((brand) => {
+              brands.push(
+                <Card
+                  app={{
+                    address: "",
+                    display: false,
+                    displayName: "",
+                    icon: brand.image,
+                    isExternal: false,
+                    name: null,
+                    scope: [],
+                  }}
+                  creatorName={`${brand.brand} | ${brand.category}`}
+                  name={brand.name}
+                  onOpen={function ro() { }}
+                  onSelect={function ro() { }}
+                  updatedAt={brand.price + "€"}
+                  userSrc="https://i.pravatar.cc/300"
+                />
+              );
+            });
+            createRoot(document.getElementById("Results-Brands")).render(brands);
+            document.getElementById("Results-Brands").style.opacity = "1";
+            document.getElementById("Results-Brands").style.overflowY = "scroll";
+          } else {
+            createRoot(document.getElementById("Results-Brands")).render(emptyScreen);
+            document.getElementById("Results-Brands").style.opacity = "1";
+            document.getElementById("Results-Brands").style.overflowY = "scroll";
+          }
+          document.getElementById('Results-Brands').addEventListener('scroll', async function () {
+            if (document.getElementById('Results-Brands').scrollTop + document.getElementById('Results-Brands').clientHeight >= document.getElementById('Results-Brands').scrollHeight) {
+              if (!brandMax) {
+                brandData = await getBrandsData(query, brandPage, brandMax);
+                brandData = brandData.data;
+                if (brandData.brands.length > 0) {
+                  brandData.brands.forEach((brand) => {
+                    brands.push(
+                      <Card
+                        app={{
+                          address: "",
+                          display: false,
+                          displayName: "",
+                          icon: brand.image,
+                          isExternal: false,
+                          name: null,
+                          scope: [],
+                        }}
+                        creatorName={`${brand.brand} | ${brand.category}`}
+                        name={brand.name}
+                        onOpen={function ro() { }}
+                        onSelect={function ro() { }}
+                        updatedAt={brand.price + "€"}
+                        userSrc="https://i.pravatar.cc/300"
+                      />
+                    );
+                  });
+                  createRoot(document.getElementById("Results-Brands")).render(brands);
+                  document.getElementById("Results-Brands").style.opacity = "1";
+                  document.getElementById("Results-Brands").style.overflowY = "scroll";
+                } else {
+                  document.getElementById("Results-Brands").style.opacity = "1";
+                  document.getElementById("Results-Brands").style.overflowY = "scroll";
+
+                  brandMax = true;
+                }
+              }
+            }
+          });
+
+          if (categoryData.categories.length > 0) {
+            categoryData.categories.forEach((category) => {
+              categories.push(
+                <Card
+                  app={{
+                    address: "",
+                    display: false,
+                    displayName: "",
+                    icon: category.image,
+                    isExternal: false,
+                    name: null,
+                    scope: [],
+                  }}
+                  creatorName={`${category.brand} | ${category.category}`}
+                  name={category.name}
+                  onOpen={function ro() { }}
+                  onSelect={function ro() { }}
+                  updatedAt={category.price + "€"}
+                  userSrc="https://i.pravatar.cc/300"
+                />
+              );
+            });
+            createRoot(document.getElementById("Results-Categories")).render(categories);
+            document.getElementById("Results-Categories").style.opacity = "1";
+            document.getElementById("Results-Categories").style.overflowY = "scroll";
+          } else {
+            createRoot(document.getElementById("Results-Categories")).render(emptyScreen);
+            document.getElementById("Results-Categories").style.opacity = "1";
+            document.getElementById("Results-Categories").style.overflowY = "scroll";
+          }
+
+          document.getElementById('Results-Categories').addEventListener('scroll', async function () {
+            if (document.getElementById('Results-Categories').scrollTop + document.getElementById('Results-Categories').clientHeight >= document.getElementById('Results-Categories').scrollHeight) {
+              if (!categoryMax) {
+                categoryData = await getCategoriesData(query, categoryPage, categoryMax);
+                categoryData = categoryData.data;
+                if (categoryData.categories.length > 0) {
+                  categoryData.categories.forEach((category) => {
+                    categories.push(
+                      <Card
+                        app={{
+                          address: "",
+                          display: false,
+                          displayName: "",
+                          icon: category.image,
+                          isExternal: false,
+                          name: null,
+                          scope: [],
+                        }}
+                        creatorName={`${category.brand} | ${category.category}`}
+                        name={category.name}
+                        onOpen={function ro() { }}
+                        onSelect={function ro() { }}
+                        updatedAt={category.price + "€"}
+                        userSrc="https://i.pravatar.cc/300"
+                      />
+                    );
+                  });
+                  createRoot(document.getElementById("Results-Categories")).render(categories);
+                  document.getElementById("Results-Categories").style.opacity = "1";
+                  document.getElementById("Results-Categories").style.overflowY = "scroll";
+                } else {
+                  document.getElementById("Results-Categories").style.opacity = "1";
+                  document.getElementById("Results-Categories").style.overflowY = "scroll";
+
+                  categoryMax = true;
+                }
+              }
+            }
+          });
+
+        }, 1000);
+      });
+
+    }, [])
 
     return (
       <div className="App">
@@ -128,10 +379,18 @@ function App() {
           />
         </FormControl>
         <div className="Results">
+          <h3>Products</h3>
           <div id="Results-Products">
+            {emptyScreen}
           </div>
-          <div id="Results-Brands"></div>
-          <div id="Results-Categories"></div>
+          <h3>Brands</h3>
+          <div id="Results-Brands">
+            {emptyScreen}
+          </div>
+          <h3>Categories</h3>
+          <div id="Results-Categories">
+            {emptyScreen}
+          </div>
         </div>
       </div>
     );
